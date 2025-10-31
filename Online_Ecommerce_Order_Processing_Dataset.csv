@@ -1,0 +1,1001 @@
+Order_ID,Order_Time,Product_Type,Priority,Processing_Time,Queue_Wait_Time,Assigned_Warehouse,Payment_Status,Inventory_Usage,Completion_Time,Order_Response_Time
+1,374.54,Books,Low,76.69,19.08,WH6,Pending,40.24,470.31,95.77
+2,950.71,Home & Kitchen,Medium,70.48,17.98,WH6,Verified,23.11,1039.17,88.46
+3,731.99,Toys,Low,76.38,5.38,WH3,Failed,36.22,813.75,81.76
+4,598.66,Electronics,Medium,28.15,21.15,WH8,Pending,29.73,647.96,49.3
+5,156.02,Toys,High,50.44,13.66,WH7,Failed,25.13,220.12,64.1
+6,155.99,Electronics,Low,9.54,20.03,WH7,Failed,10.42,185.56,29.57
+7,58.08,Clothing,High,59.69,25.12,WH6,Failed,23.73,142.89,84.81
+8,866.18,Electronics,Low,67.45,5.09,WH5,Failed,13.05,938.72,72.54
+9,601.12,Books,High,31.19,0.57,WH10,Failed,45.83,632.88,31.76
+10,708.07,Home & Kitchen,Low,115.86,23.37,WH8,Failed,17.43,847.3,139.23
+11,20.58,Clothing,High,109.59,18.29,WH5,Pending,47.66,148.46,127.88
+12,969.91,Electronics,High,88.05,20.99,WH9,Failed,27.12,1078.95,109.04
+13,832.44,Toys,Low,66.34,25.14,WH9,Verified,31.95,923.92,91.48
+14,212.34,Clothing,High,105.05,24.08,WH1,Pending,27.6,341.47,129.13
+15,181.82,Clothing,High,20.03,28.83,WH6,Verified,7.34,230.68,48.86
+16,183.4,Electronics,High,95.91,16.08,WH7,Failed,19.42,295.39,111.99
+17,304.24,Clothing,Low,19.35,14.65,WH3,Verified,5.86,338.24,34.0
+18,524.76,Toys,Low,96.33,12.06,WH7,Failed,31.52,633.15,108.39
+19,431.95,Clothing,High,36.71,4.61,WH7,Failed,22.9,473.27,41.32
+20,291.23,Toys,High,105.87,17.18,WH2,Pending,39.12,414.28,123.05
+21,611.85,Electronics,Low,113.56,8.31,WH7,Pending,11.8,733.72,121.87
+22,139.49,Home & Kitchen,Low,22.11,27.64,WH1,Failed,9.06,189.24,49.75
+23,292.14,Clothing,High,58.21,17.5,WH5,Pending,20.91,367.85,75.71
+24,366.36,Home & Kitchen,High,117.81,17.79,WH9,Verified,46.4,501.96,135.6
+25,456.07,Toys,High,60.59,10.65,WH7,Pending,35.81,527.31,71.24
+26,785.18,Clothing,Medium,104.31,1.56,WH7,Pending,21.53,891.05,105.87
+27,199.67,Books,Low,72.7,0.95,WH2,Verified,26.35,273.32,73.65
+28,514.23,Home & Kitchen,Medium,48.16,12.7,WH8,Pending,5.13,575.09,60.86
+29,592.41,Clothing,Low,37.87,2.54,WH3,Failed,49.24,632.82,40.41
+30,46.45,Home & Kitchen,Low,28.37,18.21,WH8,Verified,33.65,93.03,46.58
+31,607.54,Clothing,Low,92.61,26.43,WH3,Failed,14.98,726.58,119.04
+32,170.52,Electronics,Low,49.45,26.49,WH10,Verified,29.7,246.46,75.94
+33,65.05,Home & Kitchen,Low,63.8,19.77,WH7,Failed,6.36,148.62,83.57
+34,948.89,Books,Low,61.62,6.34,WH2,Failed,48.33,1016.85,67.96
+35,965.63,Books,Low,71.39,25.89,WH4,Pending,9.56,1062.91,97.28
+36,808.4,Toys,Medium,104.54,26.58,WH6,Failed,32.75,939.52,131.12
+37,304.61,Clothing,High,117.79,5.9,WH9,Pending,13.03,428.3,123.69
+38,97.67,Home & Kitchen,High,51.87,22.12,WH5,Verified,36.16,171.66,73.99
+39,684.23,Toys,Medium,100.16,8.6,WH9,Failed,39.06,792.99,108.76
+40,440.15,Home & Kitchen,Medium,92.92,24.08,WH5,Failed,34.0,557.15,117.0
+41,122.04,Clothing,Medium,70.96,29.92,WH10,Verified,31.11,222.92,100.88
+42,495.18,Books,Medium,114.95,0.9,WH8,Verified,44.73,611.03,115.85
+43,34.39,Electronics,Low,28.05,26.92,WH1,Failed,4.85,89.36,54.97
+44,909.32,Books,High,17.57,18.68,WH7,Verified,17.21,945.57,36.25
+45,258.78,Toys,Low,103.21,29.2,WH4,Pending,13.17,391.19,132.41
+46,662.52,Electronics,High,55.5,13.95,WH5,Verified,49.41,731.97,69.45
+47,311.71,Toys,High,102.4,25.42,WH6,Verified,20.08,439.53,127.82
+48,520.07,Clothing,Medium,107.71,1.87,WH5,Failed,36.9,629.65,109.58
+49,546.71,Electronics,Low,12.18,10.06,WH1,Pending,34.55,568.95,22.24
+50,184.85,Toys,Medium,106.6,2.01,WH9,Verified,11.39,293.46,108.61
+51,969.58,Clothing,Low,56.56,29.26,WH2,Pending,12.71,1055.4,85.82
+52,775.13,Books,High,63.7,24.51,WH9,Pending,14.78,863.34,88.21
+53,939.5,Clothing,Medium,77.06,25.58,WH10,Pending,21.15,1042.14,102.64
+54,894.83,Home & Kitchen,Medium,111.53,28.14,WH2,Failed,12.48,1034.5,139.67
+55,597.9,Clothing,High,7.2,2.55,WH9,Verified,1.96,607.65,9.75
+56,921.87,Clothing,High,59.84,11.57,WH6,Failed,44.09,993.28,71.41
+57,88.49,Home & Kitchen,High,84.09,2.13,WH9,Verified,48.31,174.71,86.22
+58,195.98,Toys,Medium,88.11,6.32,WH6,Verified,17.74,290.41,94.43
+59,45.23,Toys,Low,84.64,6.88,WH6,Failed,17.59,136.75,91.52
+60,325.33,Clothing,Medium,20.46,14.07,WH2,Pending,1.35,359.86,34.53
+61,388.68,Home & Kitchen,Low,39.43,8.06,WH8,Pending,34.33,436.17,47.49
+62,271.35,Home & Kitchen,Medium,46.25,3.03,WH3,Verified,41.45,320.63,49.28
+63,828.74,Books,Medium,97.51,5.02,WH7,Failed,8.18,931.27,102.53
+64,356.75,Toys,High,37.06,4.42,WH5,Pending,8.82,398.23,41.48
+65,280.93,Electronics,Low,29.23,29.19,WH3,Pending,39.71,339.35,58.42
+66,542.7,Toys,Medium,115.11,22.78,WH1,Verified,31.2,680.59,137.89
+67,140.92,Toys,Medium,6.02,29.03,WH8,Verified,3.2,175.97,35.05
+68,802.2,Books,High,119.75,13.19,WH3,Failed,31.5,935.14,132.94
+69,74.55,Electronics,High,82.83,8.35,WH2,Verified,16.14,165.73,91.18
+70,986.89,Books,Low,100.27,23.95,WH1,Pending,19.07,1111.11,124.22
+71,772.24,Electronics,Medium,38.88,9.79,WH4,Pending,38.72,820.91,48.67
+72,198.72,Clothing,Low,6.65,8.98,WH8,Pending,40.74,214.35,15.63
+73,5.52,Electronics,Medium,89.85,6.98,WH3,Pending,20.62,102.35,96.83
+74,815.46,Books,Low,100.93,3.89,WH1,Failed,47.41,920.28,104.82
+75,706.86,Toys,High,90.15,7.69,WH4,Failed,20.92,804.7,97.84
+76,729.01,Electronics,Medium,21.43,10.66,WH9,Verified,38.82,761.1,32.09
+77,771.27,Electronics,Low,91.64,20.22,WH1,Verified,24.71,883.13,111.86
+78,74.04,Home & Kitchen,High,93.43,1.88,WH2,Verified,44.98,169.35,95.31
+79,358.47,Toys,High,80.73,6.32,WH9,Failed,45.48,445.52,87.05
+80,115.87,Clothing,Low,93.1,24.27,WH2,Pending,5.28,233.24,117.37
+81,863.1,Books,Medium,102.28,4.41,WH3,Verified,46.89,969.79,106.69
+82,623.3,Clothing,Medium,75.56,10.28,WH7,Pending,41.45,709.14,85.84
+83,330.9,Toys,High,15.19,25.94,WH3,Verified,39.77,372.03,41.13
+84,63.56,Electronics,Medium,61.08,4.65,WH9,Verified,10.84,129.29,65.73
+85,310.98,Electronics,Medium,13.93,2.48,WH6,Verified,40.45,327.39,16.41
+86,325.18,Toys,Medium,51.87,14.54,WH3,Verified,42.66,391.59,66.41
+87,729.61,Electronics,High,51.82,9.07,WH9,Verified,15.17,790.5,60.89
+88,637.56,Electronics,Low,12.59,16.9,WH1,Pending,47.66,667.05,29.49
+89,887.21,Electronics,Medium,45.11,24.11,WH10,Verified,3.44,956.43,69.22
+90,472.21,Books,High,17.76,4.11,WH3,Pending,8.35,494.08,21.87
+91,119.59,Books,High,97.95,17.42,WH1,Failed,27.34,234.96,115.37
+92,713.24,Home & Kitchen,Low,113.98,15.17,WH2,Verified,29.21,842.39,129.15
+93,760.79,Clothing,Medium,13.32,4.32,WH8,Pending,32.61,778.43,17.64
+94,561.28,Toys,Medium,114.84,18.72,WH7,Failed,1.83,694.84,133.56
+95,770.97,Toys,Low,65.1,8.21,WH2,Failed,48.06,844.28,73.31
+96,493.8,Toys,Low,39.45,14.64,WH2,Failed,3.18,547.89,54.09
+97,522.73,Home & Kitchen,High,13.84,2.47,WH9,Pending,8.01,539.04,16.31
+98,427.54,Books,High,62.57,13.79,WH6,Verified,1.69,503.9,76.36
+99,25.42,Home & Kitchen,Low,96.37,9.19,WH5,Verified,28.78,130.98,105.56
+100,107.89,Toys,Medium,86.31,24.67,WH10,Pending,46.68,218.87,110.98
+101,31.43,Clothing,High,10.78,1.71,WH6,Verified,33.63,43.92,12.49
+102,636.41,Electronics,High,13.38,12.56,WH9,Pending,41.31,662.35,25.94
+103,314.36,Books,Medium,51.33,13.75,WH7,Verified,1.65,379.44,65.08
+104,508.57,Books,High,38.96,21.75,WH10,Failed,27.56,569.28,60.71
+105,907.57,Home & Kitchen,Medium,31.72,17.23,WH10,Verified,23.52,956.52,48.95
+106,249.29,Books,Medium,37.32,20.02,WH9,Pending,25.45,306.63,57.34
+107,410.38,Toys,Medium,97.4,23.31,WH4,Pending,4.54,531.09,120.71
+108,755.55,Toys,Low,111.86,25.87,WH2,Failed,34.54,893.28,137.73
+109,228.8,Home & Kitchen,Low,51.59,9.42,WH8,Pending,25.66,289.81,61.01
+110,76.98,Toys,Low,109.2,16.14,WH4,Verified,38.49,202.32,125.34
+111,289.75,Clothing,Medium,41.97,25.2,WH9,Verified,24.78,356.92,67.17
+112,161.22,Home & Kitchen,Medium,59.79,29.68,WH4,Failed,8.32,250.69,89.47
+113,929.7,Clothing,Low,30.99,26.69,WH8,Pending,32.76,987.38,57.68
+114,808.12,Electronics,High,78.65,11.14,WH9,Failed,9.45,897.91,89.79
+115,633.4,Clothing,Medium,117.58,5.85,WH9,Verified,43.75,756.83,123.43
+116,871.46,Electronics,High,74.4,14.68,WH10,Failed,31.04,960.54,89.08
+117,803.67,Electronics,High,46.15,22.25,WH4,Pending,8.7,872.07,68.4
+118,186.57,Clothing,Medium,79.5,14.78,WH1,Failed,48.15,280.85,94.28
+119,892.56,Home & Kitchen,Medium,19.14,14.5,WH3,Pending,26.4,926.2,33.64
+120,539.34,Toys,High,107.2,25.15,WH9,Pending,4.57,671.69,132.35
+121,807.44,Toys,High,62.85,10.84,WH4,Verified,31.71,881.13,73.69
+122,896.09,Electronics,Low,56.68,25.79,WH5,Verified,13.41,978.56,82.47
+123,318.0,Electronics,Low,72.37,12.2,WH7,Verified,40.38,402.57,84.57
+124,110.05,Home & Kitchen,Medium,76.85,9.85,WH5,Pending,41.07,196.75,86.7
+125,227.94,Books,Low,13.25,13.62,WH4,Failed,48.97,254.81,26.87
+126,427.11,Clothing,Low,83.5,22.87,WH2,Pending,25.59,533.48,106.37
+127,818.01,Electronics,Low,32.82,3.78,WH2,Verified,23.29,854.61,36.6
+128,860.73,Toys,Low,87.1,5.89,WH4,Verified,37.92,953.72,92.99
+129,6.95,Home & Kitchen,High,99.59,28.54,WH10,Failed,7.49,135.08,128.13
+130,510.75,Clothing,Medium,97.46,5.26,WH10,Verified,27.8,613.47,102.72
+131,417.41,Home & Kitchen,Low,68.54,17.03,WH9,Verified,27.77,502.98,85.57
+132,222.11,Clothing,High,64.82,17.38,WH8,Verified,5.38,304.31,82.2
+133,119.87,Clothing,High,21.43,14.69,WH3,Failed,21.48,155.99,36.12
+134,337.62,Electronics,High,94.16,19.34,WH9,Pending,42.81,451.12,113.5
+135,942.91,Home & Kitchen,Low,36.21,6.89,WH5,Verified,42.95,986.01,43.1
+136,323.2,Home & Kitchen,Low,62.12,16.58,WH3,Failed,5.86,401.9,78.7
+137,518.79,Toys,Medium,37.69,11.17,WH5,Verified,5.45,567.65,48.86
+138,703.02,Toys,Low,20.39,19.85,WH10,Failed,13.87,743.26,40.24
+139,363.63,Electronics,Low,77.4,4.24,WH4,Verified,43.86,445.27,81.64
+140,971.78,Electronics,High,11.25,17.13,WH8,Failed,7.32,1000.16,28.38
+141,962.45,Books,Medium,91.09,5.56,WH5,Verified,36.28,1059.1,96.65
+142,251.78,Toys,Low,41.52,8.36,WH10,Pending,5.96,301.66,49.88
+143,497.25,Clothing,Low,5.02,6.56,WH8,Verified,31.53,508.83,11.58
+144,300.88,Home & Kitchen,High,63.78,5.49,WH9,Failed,18.45,370.15,69.27
+145,284.84,Electronics,High,10.39,24.77,WH4,Verified,39.66,320.0,35.16
+146,36.89,Home & Kitchen,Low,36.76,8.57,WH7,Pending,12.45,82.22,45.33
+147,609.56,Home & Kitchen,Medium,86.3,27.81,WH2,Verified,32.32,723.67,114.11
+148,502.68,Books,Medium,12.21,29.1,WH6,Failed,12.55,543.99,41.31
+149,51.48,Toys,High,101.52,17.14,WH8,Failed,35.97,170.14,118.66
+150,278.65,Electronics,High,5.44,4.29,WH7,Pending,43.81,288.38,9.73
+151,908.27,Home & Kitchen,Low,33.38,11.24,WH7,Failed,7.21,952.89,44.62
+152,239.56,Electronics,High,90.2,23.93,WH8,Verified,43.46,353.69,114.13
+153,144.89,Clothing,Low,41.37,11.02,WH7,Verified,30.09,197.28,52.39
+154,489.45,Books,Medium,16.72,2.61,WH5,Verified,7.23,508.78,19.33
+155,985.65,Clothing,Medium,46.43,16.7,WH7,Failed,21.95,1048.78,63.13
+156,242.06,Electronics,Low,36.1,25.35,WH10,Verified,8.88,303.51,61.45
+157,672.14,Electronics,High,101.91,23.88,WH3,Verified,35.32,797.93,125.79
+158,761.62,Toys,Medium,41.04,5.25,WH5,Verified,38.18,807.91,46.29
+159,237.64,Home & Kitchen,High,95.73,20.18,WH7,Pending,6.18,353.55,115.91
+160,728.22,Home & Kitchen,Medium,107.57,6.62,WH9,Failed,25.8,842.41,114.19
+161,367.78,Clothing,Low,54.89,6.55,WH2,Failed,40.92,429.22,61.44
+162,632.31,Books,Low,109.64,26.22,WH4,Failed,46.87,768.17,135.86
+163,633.53,Home & Kitchen,Low,48.39,7.49,WH7,Pending,26.16,689.41,55.88
+164,535.77,Toys,Medium,115.87,7.9,WH1,Failed,47.56,659.54,123.77
+165,90.29,Clothing,High,15.27,0.02,WH2,Pending,27.25,105.58,15.29
+166,835.3,Clothing,High,84.01,26.12,WH9,Pending,20.32,945.43,110.13
+167,320.78,Toys,High,61.79,23.78,WH10,Failed,42.56,406.35,85.57
+168,186.52,Books,Medium,49.58,18.82,WH7,Verified,25.16,254.92,68.4
+169,40.78,Toys,Medium,77.76,22.51,WH10,Verified,24.12,141.05,100.27
+170,590.89,Books,Medium,85.94,4.56,WH7,Failed,25.03,681.39,90.5
+171,677.56,Toys,Medium,5.5,13.75,WH6,Failed,42.49,696.81,19.25
+172,16.59,Toys,Medium,24.2,10.54,WH3,Pending,41.77,51.33,34.74
+173,512.09,Electronics,High,87.0,2.81,WH10,Failed,20.77,601.9,89.81
+174,226.5,Clothing,Medium,81.63,14.58,WH3,Pending,17.33,322.71,96.21
+175,645.17,Toys,Medium,116.1,27.62,WH2,Failed,25.1,788.89,143.72
+176,174.37,Toys,High,92.52,1.2,WH6,Verified,29.07,268.09,93.72
+177,690.94,Home & Kitchen,Medium,114.34,8.74,WH4,Verified,12.68,814.02,123.08
+178,386.74,Clothing,High,85.79,6.23,WH5,Failed,39.9,478.76,92.02
+179,936.73,Home & Kitchen,High,39.28,7.14,WH3,Pending,24.84,983.15,46.42
+180,137.52,Clothing,Low,17.12,27.25,WH6,Verified,17.37,181.89,44.37
+181,341.07,Home & Kitchen,Low,94.91,14.04,WH3,Pending,6.23,450.02,108.95
+182,113.47,Toys,Low,79.08,13.99,WH8,Failed,12.7,206.54,93.07
+183,924.69,Toys,Low,10.54,22.82,WH9,Failed,47.51,958.05,33.36
+184,877.34,Electronics,Medium,46.41,4.63,WH4,Verified,15.95,928.38,51.04
+185,257.94,Home & Kitchen,Low,115.03,14.62,WH9,Failed,9.27,387.59,129.65
+186,659.98,Books,High,62.55,12.9,WH7,Verified,23.57,735.43,75.45
+187,817.22,Electronics,Medium,54.76,17.91,WH3,Pending,16.05,889.89,72.67
+188,555.2,Home & Kitchen,Low,57.64,29.99,WH7,Verified,2.72,642.83,87.63
+189,529.65,Home & Kitchen,High,29.02,23.08,WH1,Verified,16.83,581.75,52.1
+190,241.85,Electronics,Medium,47.4,11.94,WH3,Pending,27.66,301.19,59.34
+191,93.1,Toys,Medium,47.53,24.83,WH6,Verified,28.03,165.46,72.36
+192,897.22,Home & Kitchen,Low,11.02,5.12,WH4,Verified,18.47,913.36,16.14
+193,900.42,Toys,Medium,93.27,0.91,WH7,Failed,22.92,994.6,94.18
+194,633.1,Electronics,High,52.9,6.13,WH3,Pending,48.31,692.13,59.03
+195,339.03,Toys,Medium,99.55,10.21,WH1,Verified,19.49,448.79,109.76
+196,349.21,Clothing,High,102.79,15.32,WH9,Pending,13.65,467.32,118.11
+197,725.96,Books,Medium,29.38,18.45,WH6,Pending,12.93,773.79,47.83
+198,897.11,Home & Kitchen,Low,80.6,27.32,WH8,Verified,23.43,1005.03,107.92
+199,887.09,Books,High,59.31,15.3,WH3,Failed,38.22,961.7,74.61
+200,779.88,Toys,Medium,106.22,15.04,WH8,Pending,11.09,901.14,121.26
+201,642.03,Home & Kitchen,Medium,29.81,1.51,WH2,Verified,35.76,673.35,31.32
+202,84.14,Toys,Medium,82.95,1.05,WH4,Pending,2.04,168.14,84.0
+203,161.63,Clothing,High,74.89,16.53,WH3,Failed,21.53,253.05,91.42
+204,898.55,Electronics,High,38.96,13.15,WH10,Failed,39.02,950.66,52.11
+205,606.43,Home & Kitchen,High,20.71,25.18,WH1,Failed,17.6,652.32,45.89
+206,9.2,Clothing,Low,79.94,4.82,WH7,Verified,28.62,93.96,84.76
+207,101.47,Clothing,Low,89.94,0.75,WH10,Verified,11.04,192.16,90.69
+208,663.5,Home & Kitchen,High,41.3,13.47,WH2,Failed,37.36,718.27,54.77
+209,5.06,Toys,Medium,79.16,7.12,WH4,Verified,3.56,91.34,86.28
+210,160.81,Clothing,Low,50.44,1.49,WH9,Failed,42.77,212.74,51.93
+211,548.73,Books,High,87.02,21.74,WH6,Verified,10.71,657.49,108.76
+212,691.9,Clothing,Medium,27.91,3.35,WH8,Failed,43.85,723.16,31.26
+213,651.96,Toys,Low,107.37,18.25,WH2,Pending,18.27,777.58,125.62
+214,224.27,Toys,Medium,38.05,8.43,WH7,Failed,36.41,270.75,46.48
+215,712.18,Books,Medium,47.3,5.2,WH6,Failed,16.64,764.68,52.5
+216,237.25,Clothing,Medium,11.68,11.39,WH9,Verified,45.39,260.32,23.07
+217,325.4,Toys,Medium,17.82,24.04,WH7,Verified,7.21,367.26,41.86
+218,746.49,Home & Kitchen,Low,64.32,11.76,WH1,Verified,9.75,822.57,76.08
+219,649.63,Electronics,Low,35.77,22.52,WH8,Verified,25.16,707.92,58.29
+220,849.22,Electronics,Low,101.08,3.76,WH10,Verified,5.01,954.06,104.84
+221,657.61,Electronics,High,6.69,23.18,WH3,Verified,10.6,687.48,29.87
+222,568.31,Clothing,Low,48.6,7.11,WH2,Pending,47.24,624.02,55.71
+223,93.67,Books,Medium,43.79,20.32,WH3,Failed,48.85,157.78,64.11
+224,367.72,Toys,Low,7.22,16.97,WH6,Failed,19.44,391.91,24.19
+225,265.2,Home & Kitchen,Medium,19.3,27.87,WH3,Failed,46.24,312.37,47.17
+226,243.99,Home & Kitchen,High,52.57,11.62,WH10,Pending,27.7,308.18,64.19
+227,973.01,Clothing,Medium,61.68,1.98,WH5,Failed,14.22,1036.67,63.66
+228,393.1,Electronics,Medium,51.49,0.57,WH6,Pending,35.42,445.16,52.06
+229,892.05,Clothing,Medium,66.06,24.81,WH8,Pending,33.29,982.92,90.87
+230,631.14,Books,High,73.44,15.74,WH7,Pending,49.47,720.32,89.18
+231,794.81,Books,Low,6.14,23.26,WH8,Failed,13.99,824.21,29.4
+232,502.64,Toys,Low,58.37,7.03,WH3,Pending,33.93,568.04,65.4
+233,576.9,Toys,High,115.8,10.35,WH4,Failed,3.55,703.05,126.15
+234,492.52,Books,Medium,64.69,0.9,WH6,Failed,6.57,558.11,65.59
+235,195.24,Books,Low,82.92,28.84,WH7,Verified,1.19,307.0,111.76
+236,722.45,Books,High,40.86,20.04,WH9,Verified,49.97,783.35,60.9
+237,280.77,Clothing,Low,94.01,28.0,WH1,Pending,40.31,402.78,122.01
+238,24.32,Books,High,93.89,7.96,WH8,Pending,39.55,126.17,101.85
+239,645.47,Home & Kitchen,Medium,64.95,18.34,WH8,Failed,25.98,728.76,83.29
+240,177.11,Electronics,Low,117.24,20.35,WH6,Pending,15.7,314.7,137.59
+241,940.46,Books,High,19.44,9.53,WH4,Pending,8.41,969.43,28.97
+242,953.93,Electronics,Low,6.95,25.44,WH3,Failed,14.95,986.32,32.39
+243,914.86,Clothing,Low,93.57,28.41,WH3,Pending,19.42,1036.84,121.98
+244,370.16,Electronics,Low,97.82,26.55,WH6,Pending,38.06,494.53,124.37
+245,15.46,Clothing,Low,18.82,22.17,WH8,Failed,27.44,56.45,40.99
+246,928.32,Home & Kitchen,High,35.54,8.32,WH7,Failed,4.8,972.18,43.86
+247,428.18,Clothing,Medium,7.02,8.45,WH1,Verified,1.88,443.65,15.47
+248,966.65,Clothing,High,38.73,28.9,WH6,Failed,6.01,1034.28,67.63
+249,963.62,Toys,High,93.91,0.31,WH7,Verified,21.11,1057.84,94.22
+250,853.01,Books,High,64.57,21.48,WH7,Pending,46.73,939.06,86.05
+251,294.45,Books,Medium,45.03,21.19,WH9,Failed,32.23,360.67,66.22
+252,385.1,Home & Kitchen,Low,47.75,18.68,WH10,Failed,40.29,451.53,66.43
+253,851.14,Home & Kitchen,Low,5.16,29.7,WH5,Failed,23.85,886.0,34.86
+254,316.92,Books,Low,39.48,9.36,WH1,Pending,18.72,365.76,48.84
+255,169.49,Toys,Medium,79.34,10.2,WH2,Verified,6.31,259.03,89.54
+256,556.8,Books,Low,117.03,2.37,WH4,Pending,43.92,676.2,119.4
+257,936.15,Toys,Medium,102.41,13.28,WH5,Pending,39.37,1051.84,115.69
+258,696.03,Home & Kitchen,Low,7.71,7.83,WH9,Failed,9.24,711.57,15.54
+259,570.06,Electronics,Low,108.33,10.3,WH1,Verified,26.1,688.69,118.63
+260,97.18,Home & Kitchen,High,95.07,25.04,WH3,Pending,24.88,217.29,120.11
+261,615.01,Home & Kitchen,Medium,94.74,28.06,WH5,Failed,31.63,737.81,122.8
+262,990.05,Clothing,High,57.67,5.57,WH3,Pending,47.36,1053.29,63.24
+263,140.08,Clothing,High,50.77,11.18,WH4,Pending,29.41,202.03,61.95
+264,518.33,Clothing,High,39.84,27.86,WH3,Failed,27.47,586.03,67.7
+265,877.37,Clothing,Medium,12.55,1.85,WH4,Failed,3.47,891.77,14.4
+266,740.77,Toys,Medium,31.25,2.77,WH1,Verified,4.08,774.79,34.02
+267,697.02,Books,Low,33.36,4.88,WH8,Pending,10.18,735.26,38.24
+268,702.48,Electronics,High,60.67,17.86,WH4,Failed,2.59,781.01,78.53
+269,359.49,Home & Kitchen,Low,90.96,4.51,WH7,Failed,37.42,454.96,95.47
+270,293.59,Toys,High,59.49,29.04,WH2,Verified,36.44,382.12,88.53
+271,809.36,Electronics,Medium,11.65,13.4,WH2,Verified,7.67,834.41,25.05
+272,810.11,Toys,Medium,115.15,15.05,WH6,Failed,41.97,940.31,130.2
+273,867.07,Toys,Medium,113.41,7.4,WH2,Verified,8.58,987.88,120.81
+274,913.24,Home & Kitchen,High,95.3,14.13,WH6,Failed,15.76,1022.67,109.43
+275,511.34,Books,Medium,119.0,19.86,WH2,Pending,13.2,650.2,138.86
+276,501.52,Clothing,High,67.62,22.54,WH4,Verified,19.24,591.68,90.16
+277,798.3,Books,Low,115.72,22.62,WH7,Pending,13.48,936.64,138.34
+278,649.96,Home & Kitchen,High,13.69,17.34,WH8,Pending,24.96,680.99,31.03
+279,701.97,Home & Kitchen,Low,47.05,27.13,WH3,Pending,20.96,776.15,74.18
+280,795.79,Home & Kitchen,High,30.92,24.52,WH9,Failed,49.34,851.23,55.44
+281,890.01,Electronics,Low,27.52,22.71,WH2,Pending,3.74,940.24,50.23
+282,338.0,Books,Medium,21.19,1.67,WH8,Pending,7.97,360.86,22.86
+283,375.58,Books,Low,76.58,0.21,WH8,Pending,3.59,452.37,76.79
+284,93.98,Toys,Medium,94.85,6.37,WH4,Failed,31.67,195.2,101.22
+285,578.28,Toys,Medium,71.5,19.91,WH1,Pending,3.67,669.69,91.41
+286,35.94,Toys,Low,21.9,12.34,WH1,Pending,41.99,70.18,34.24
+287,465.6,Home & Kitchen,High,98.28,12.07,WH2,Verified,26.08,575.95,110.35
+288,542.64,Books,High,78.13,26.54,WH9,Failed,26.82,647.31,104.67
+289,286.54,Home & Kitchen,High,49.64,26.87,WH2,Pending,28.52,363.05,76.51
+290,590.83,Electronics,High,82.52,27.28,WH2,Verified,9.37,700.63,109.8
+291,30.5,Toys,High,34.89,9.42,WH6,Failed,10.69,74.81,44.31
+292,37.35,Home & Kitchen,Medium,44.7,20.73,WH7,Failed,16.62,102.78,65.43
+293,822.6,Home & Kitchen,High,110.51,8.15,WH7,Failed,30.08,941.26,118.66
+294,360.19,Electronics,Medium,38.41,5.72,WH9,Failed,11.3,404.32,44.13
+295,127.06,Clothing,Medium,59.05,5.54,WH6,Failed,6.7,191.65,64.59
+296,522.24,Books,Medium,107.37,10.26,WH8,Failed,48.54,639.87,117.63
+297,769.99,Clothing,Low,86.39,12.9,WH6,Pending,2.08,869.28,99.29
+298,215.82,Toys,Low,12.15,24.93,WH2,Pending,40.33,252.9,37.08
+299,622.89,Home & Kitchen,Medium,21.94,3.6,WH1,Pending,39.61,648.43,25.54
+300,85.35,Electronics,Low,5.9,22.05,WH5,Pending,15.56,113.3,27.95
+301,51.68,Electronics,High,77.56,15.94,WH9,Verified,7.65,145.18,93.5
+302,531.35,Books,High,56.48,8.64,WH8,Pending,8.14,596.47,65.12
+303,540.64,Clothing,Medium,20.44,14.78,WH4,Failed,35.17,575.86,35.22
+304,637.43,Books,High,115.16,9.0,WH5,Pending,32.5,761.59,124.16
+305,726.09,Home & Kitchen,Medium,65.91,17.88,WH5,Pending,39.35,809.88,83.79
+306,975.85,Books,Medium,32.82,13.02,WH6,Failed,46.94,1021.69,45.84
+307,516.3,Electronics,High,62.57,4.93,WH3,Pending,34.9,583.8,67.5
+308,322.96,Electronics,Low,83.16,3.5,WH5,Pending,8.64,409.62,86.66
+309,795.19,Toys,High,13.77,16.4,WH2,Pending,12.93,825.36,30.17
+310,270.83,Toys,High,36.59,27.07,WH10,Verified,42.27,334.49,63.66
+311,438.97,Home & Kitchen,Medium,97.8,10.32,WH1,Pending,11.26,547.09,108.12
+312,78.46,Clothing,Medium,57.86,21.99,WH1,Failed,4.55,158.31,79.85
+313,25.35,Books,Medium,67.86,19.76,WH10,Failed,35.46,112.97,87.62
+314,962.65,Home & Kitchen,Medium,54.77,27.95,WH7,Pending,20.72,1045.37,82.72
+315,835.98,Toys,Low,10.05,24.63,WH2,Pending,46.08,870.66,34.68
+316,695.97,Books,Low,24.06,17.0,WH4,Pending,32.86,737.03,41.06
+317,408.95,Toys,Low,56.24,19.71,WH5,Failed,5.43,484.9,75.95
+318,173.29,Books,Medium,29.06,26.95,WH7,Failed,47.44,229.3,56.01
+319,156.44,Clothing,Medium,10.75,11.99,WH2,Verified,13.67,179.18,22.74
+320,250.24,Home & Kitchen,Medium,102.02,9.8,WH6,Verified,17.52,362.06,111.82
+321,549.23,Books,Low,117.84,0.32,WH1,Verified,20.71,667.39,118.16
+322,714.6,Electronics,Medium,96.21,24.8,WH7,Failed,3.51,835.61,121.01
+323,660.2,Electronics,High,103.19,24.03,WH9,Verified,25.33,787.42,127.22
+324,279.93,Books,High,32.83,3.13,WH5,Pending,7.04,315.89,35.96
+325,954.87,Books,Medium,115.47,17.31,WH5,Pending,20.65,1087.65,132.78
+326,737.9,Books,High,27.65,13.92,WH4,Failed,18.18,779.47,41.57
+327,554.35,Electronics,High,114.41,3.56,WH3,Verified,38.87,672.32,117.97
+328,611.72,Electronics,Low,119.4,29.42,WH9,Pending,40.36,760.54,148.82
+329,419.6,Books,Medium,86.85,6.44,WH5,Failed,8.52,512.89,93.29
+330,247.73,Toys,Medium,117.83,2.02,WH8,Verified,18.96,367.58,119.85
+331,355.97,Toys,Low,70.5,17.85,WH9,Pending,19.29,444.32,88.35
+332,757.85,Clothing,High,34.85,22.17,WH5,Verified,8.42,814.87,57.02
+333,14.39,Home & Kitchen,High,55.25,0.97,WH10,Failed,40.12,70.61,56.22
+334,116.07,Toys,Medium,73.26,19.76,WH9,Verified,35.65,209.09,93.02
+335,46.0,Electronics,High,13.4,15.97,WH2,Failed,10.33,75.37,29.37
+336,40.73,Toys,Low,76.57,3.1,WH9,Verified,18.97,120.4,79.67
+337,855.46,Clothing,Low,117.84,5.18,WH4,Pending,6.18,978.48,123.02
+338,703.66,Clothing,Medium,26.86,17.04,WH6,Failed,31.78,747.56,43.9
+339,474.17,Home & Kitchen,Low,96.15,8.89,WH6,Failed,6.95,579.21,105.04
+340,97.83,Toys,Low,109.41,28.15,WH6,Failed,49.31,235.39,137.56
+341,491.62,Electronics,Medium,113.53,24.56,WH2,Verified,39.25,629.71,138.09
+342,473.47,Electronics,Low,115.42,29.51,WH7,Verified,20.12,618.4,144.93
+343,173.2,Books,Low,64.97,7.79,WH6,Pending,29.35,245.96,72.76
+344,433.85,Electronics,Low,117.39,29.09,WH1,Failed,45.66,580.33,146.48
+345,398.5,Home & Kitchen,High,92.09,12.94,WH2,Failed,28.15,503.53,105.03
+346,615.85,Home & Kitchen,Medium,23.59,10.43,WH7,Verified,9.55,649.87,34.02
+347,635.09,Electronics,Medium,59.84,1.51,WH1,Verified,19.56,696.44,61.35
+348,45.3,Electronics,Medium,87.61,1.58,WH1,Pending,42.31,134.49,89.19
+349,374.61,Books,High,33.44,20.76,WH1,Pending,32.57,428.81,54.2
+350,625.86,Electronics,High,78.67,13.74,WH8,Verified,32.89,718.27,92.41
+351,503.14,Books,Medium,81.66,6.8,WH4,Failed,43.47,591.6,88.46
+352,856.49,Books,High,23.71,18.42,WH4,Pending,44.8,898.62,42.13
+353,658.69,Electronics,Medium,69.98,7.59,WH2,Verified,46.07,736.26,77.57
+354,162.93,Clothing,High,93.74,17.33,WH1,Verified,5.65,274.0,111.07
+355,70.57,Clothing,Low,62.37,10.78,WH10,Failed,27.66,143.72,73.15
+356,642.42,Books,Low,6.39,24.71,WH9,Verified,37.28,673.52,31.1
+357,26.51,Electronics,Medium,6.04,24.62,WH7,Verified,38.09,57.17,30.66
+358,585.78,Clothing,High,46.06,14.32,WH4,Pending,30.73,646.16,60.38
+359,940.23,Electronics,High,111.51,10.52,WH6,Verified,9.17,1062.26,122.03
+360,575.47,Electronics,Low,31.3,10.88,WH2,Verified,40.07,617.65,42.18
+361,388.17,Electronics,Low,77.95,24.17,WH7,Pending,36.29,490.29,102.12
+362,643.29,Toys,High,30.54,9.85,WH2,Failed,5.22,683.68,40.39
+363,458.25,Electronics,High,41.99,6.27,WH10,Failed,23.73,506.51,48.26
+364,545.62,Toys,High,102.52,2.54,WH8,Pending,9.52,650.68,105.06
+365,941.46,Books,High,88.82,14.0,WH8,Pending,17.54,1044.28,102.82
+366,386.1,Clothing,High,15.97,14.46,WH1,Failed,1.89,416.53,30.43
+367,961.19,Clothing,High,54.3,25.23,WH8,Failed,20.62,1040.72,79.53
+368,905.35,Clothing,Medium,8.35,6.64,WH2,Failed,27.94,920.34,14.99
+369,195.79,Clothing,High,60.3,11.43,WH6,Failed,31.36,267.52,71.73
+370,69.36,Clothing,Low,81.18,24.25,WH1,Failed,33.51,174.79,105.43
+371,100.78,Clothing,Medium,18.63,24.71,WH5,Pending,41.98,144.12,43.34
+372,18.22,Clothing,High,38.22,11.54,WH7,Verified,11.56,67.98,49.76
+373,94.44,Books,Low,50.75,13.77,WH10,Failed,6.9,158.96,64.52
+374,683.01,Electronics,Medium,110.75,9.1,WH1,Failed,42.73,802.86,119.85
+375,71.19,Home & Kitchen,Low,119.22,27.98,WH2,Verified,8.67,218.39,147.2
+376,318.98,Toys,High,10.16,3.56,WH7,Verified,48.76,332.7,13.72
+377,844.88,Home & Kitchen,High,92.52,28.01,WH6,Verified,42.28,965.41,120.53
+378,23.27,Home & Kitchen,High,47.75,20.52,WH3,Verified,25.54,91.54,68.27
+379,814.47,Electronics,High,50.13,15.95,WH10,Verified,49.09,880.55,66.08
+380,281.85,Electronics,Medium,91.74,0.98,WH2,Verified,5.77,374.57,92.72
+381,118.16,Electronics,Medium,110.62,14.27,WH10,Pending,15.85,243.05,124.89
+382,696.74,Clothing,Low,114.36,12.23,WH4,Verified,32.27,823.33,126.59
+383,628.94,Books,High,71.37,4.84,WH3,Verified,18.15,705.15,76.21
+384,877.47,Clothing,Low,46.07,19.69,WH7,Pending,46.49,943.23,65.76
+385,735.07,Books,Medium,95.57,29.13,WH8,Verified,4.22,859.77,124.7
+386,803.48,Books,High,33.87,16.87,WH2,Failed,27.92,854.22,50.74
+387,282.03,Home & Kitchen,High,69.87,21.44,WH10,Failed,29.95,373.34,91.31
+388,177.44,Home & Kitchen,Medium,46.24,2.05,WH7,Verified,32.98,225.73,48.29
+389,750.61,Books,Medium,80.51,12.53,WH8,Pending,13.53,843.65,93.04
+390,806.83,Books,Medium,32.65,3.49,WH6,Failed,18.86,842.97,36.14
+391,990.51,Clothing,Medium,27.03,18.38,WH6,Pending,42.34,1035.92,45.41
+392,412.62,Clothing,Medium,110.6,28.15,WH10,Failed,10.55,551.37,138.75
+393,372.02,Home & Kitchen,High,16.71,19.85,WH1,Verified,41.52,408.58,36.56
+394,776.41,Electronics,Medium,63.19,2.3,WH4,Pending,28.57,841.9,65.49
+395,340.8,Books,High,30.4,10.64,WH1,Pending,38.35,381.84,41.04
+396,930.76,Clothing,High,9.48,16.52,WH4,Pending,35.97,956.76,26.0
+397,858.41,Home & Kitchen,Medium,9.14,12.1,WH2,Failed,11.17,879.65,21.24
+398,428.99,Clothing,Medium,25.15,25.01,WH5,Failed,28.87,479.15,50.16
+399,750.87,Books,High,104.68,24.44,WH10,Failed,43.52,879.99,129.12
+400,754.54,Books,Medium,37.49,18.35,WH9,Verified,22.17,810.38,55.84
+401,103.12,Toys,Medium,114.3,11.2,WH10,Failed,48.36,228.62,125.5
+402,902.55,Electronics,Medium,71.89,7.66,WH3,Verified,23.16,982.1,79.55
+403,505.25,Toys,Low,55.21,3.18,WH8,Pending,8.0,563.64,58.39
+404,826.46,Home & Kitchen,High,71.71,10.65,WH3,Pending,20.08,908.82,82.36
+405,320.05,Clothing,Low,64.42,12.4,WH6,Verified,47.63,396.87,76.82
+406,895.52,Home & Kitchen,Medium,92.26,20.27,WH4,Failed,16.67,1008.05,112.53
+407,389.2,Books,Low,37.49,19.74,WH8,Verified,43.54,446.43,57.23
+408,10.84,Toys,Medium,45.6,2.1,WH6,Pending,44.18,58.54,47.7
+409,905.38,Toys,Low,107.82,11.86,WH8,Pending,18.16,1025.06,119.68
+410,91.29,Toys,Medium,113.84,5.45,WH1,Verified,5.08,210.58,119.29
+411,319.31,Home & Kitchen,Low,107.64,4.7,WH6,Failed,36.5,431.65,112.34
+412,950.06,Books,Low,53.24,24.82,WH1,Failed,16.26,1028.12,78.06
+413,950.61,Clothing,Low,94.74,1.26,WH1,Verified,39.36,1046.61,96.0
+414,573.44,Clothing,High,59.78,12.58,WH8,Verified,22.69,645.8,72.36
+415,631.84,Home & Kitchen,Low,62.22,5.05,WH7,Failed,24.78,699.11,67.27
+416,448.45,Toys,High,28.54,26.38,WH3,Pending,39.12,503.37,54.92
+417,293.21,Electronics,Medium,72.98,16.71,WH6,Verified,19.74,382.9,89.69
+418,328.66,Home & Kitchen,Low,26.41,6.94,WH9,Failed,22.71,362.01,33.35
+419,672.52,Home & Kitchen,Medium,43.13,15.07,WH7,Failed,19.43,730.72,58.2
+420,752.37,Books,Medium,103.33,21.94,WH3,Pending,19.0,877.64,125.27
+421,791.58,Clothing,Low,28.81,28.74,WH6,Pending,26.77,849.13,57.55
+422,789.62,Home & Kitchen,High,13.18,6.61,WH4,Pending,40.63,809.41,19.79
+423,91.21,Home & Kitchen,Low,12.94,26.59,WH3,Pending,18.73,130.74,39.53
+424,494.42,Toys,Medium,113.19,28.03,WH9,Pending,26.69,635.64,141.22
+425,57.56,Toys,Medium,63.3,27.49,WH10,Verified,33.87,148.35,90.79
+426,549.53,Electronics,Low,52.08,19.06,WH2,Failed,14.2,620.67,71.14
+427,441.53,Books,High,98.25,18.89,WH1,Verified,14.6,558.67,117.14
+428,887.7,Electronics,High,101.12,12.1,WH2,Verified,46.74,1000.92,113.22
+429,350.92,Toys,Medium,43.2,22.57,WH7,Verified,36.45,416.69,65.77
+430,117.07,Clothing,Medium,84.77,15.94,WH10,Verified,29.28,217.78,100.71
+431,142.99,Toys,High,93.68,20.32,WH1,Verified,32.74,256.99,114.0
+432,761.51,Books,Low,80.28,12.85,WH6,Pending,2.44,854.64,93.13
+433,618.22,Toys,Medium,22.43,21.94,WH7,Pending,31.29,662.59,44.37
+434,101.12,Books,High,105.73,24.73,WH9,Failed,25.97,231.58,130.46
+435,84.11,Books,Medium,67.0,4.39,WH8,Verified,27.74,155.5,71.39
+436,700.97,Books,Low,37.48,24.99,WH6,Failed,18.61,763.44,62.47
+437,72.76,Books,High,53.9,16.21,WH3,Pending,4.99,142.87,70.11
+438,821.86,Books,Medium,9.32,25.34,WH8,Pending,10.47,856.52,34.66
+439,706.24,Clothing,Low,19.7,12.94,WH7,Pending,47.59,738.88,32.64
+440,81.35,Electronics,Medium,93.04,11.37,WH3,Verified,21.03,185.76,104.41
+441,84.84,Home & Kitchen,Low,5.0,27.45,WH9,Verified,23.87,117.29,32.45
+442,986.64,Electronics,Low,52.91,7.54,WH2,Pending,3.58,1047.09,60.45
+443,374.27,Books,High,65.09,25.33,WH3,Failed,2.84,464.69,90.42
+444,370.64,Clothing,Low,11.28,14.52,WH2,Failed,36.14,396.44,25.8
+445,812.8,Toys,Medium,116.9,15.42,WH1,Pending,27.37,945.12,132.32
+446,947.25,Clothing,Low,31.0,9.25,WH4,Failed,25.93,987.5,40.25
+447,986.0,Books,Low,39.98,17.19,WH5,Pending,12.91,1043.17,57.17
+448,753.38,Clothing,High,39.95,9.76,WH6,Failed,37.49,803.09,49.71
+449,376.26,Clothing,Low,31.5,1.18,WH5,Pending,9.24,408.94,32.68
+450,83.5,Books,Low,5.17,8.16,WH1,Failed,10.31,96.83,13.33
+451,777.15,Clothing,Medium,88.87,0.19,WH3,Verified,23.57,866.21,89.06
+452,558.4,Home & Kitchen,High,116.19,29.35,WH1,Pending,15.03,703.94,145.54
+453,424.22,Home & Kitchen,High,30.79,28.97,WH5,Pending,13.13,483.98,59.76
+454,906.35,Clothing,High,81.25,11.85,WH5,Failed,32.62,999.45,93.1
+455,111.2,Toys,Low,90.32,21.85,WH6,Pending,32.9,223.37,112.17
+456,492.63,Books,High,102.57,10.37,WH8,Pending,41.4,605.57,112.94
+457,11.35,Home & Kitchen,Low,53.6,20.13,WH10,Pending,21.47,85.08,73.73
+458,468.66,Toys,Low,39.84,24.16,WH1,Verified,4.58,532.66,64.0
+459,56.3,Clothing,Medium,42.41,28.4,WH4,Verified,14.41,127.11,70.81
+460,118.82,Toys,Medium,86.95,12.01,WH10,Failed,49.02,217.78,98.96
+461,117.53,Electronics,Medium,98.93,23.5,WH1,Verified,30.22,239.96,122.43
+462,649.21,Home & Kitchen,Medium,25.89,7.98,WH9,Failed,35.78,683.08,33.87
+463,746.04,Clothing,Medium,47.66,29.71,WH7,Verified,1.36,823.41,77.37
+464,583.37,Books,Low,108.72,0.77,WH7,Failed,26.39,692.86,109.49
+465,962.17,Clothing,Low,97.77,18.11,WH5,Verified,2.84,1078.05,115.88
+466,374.87,Books,High,118.26,19.79,WH7,Verified,28.89,512.92,138.05
+467,285.71,Clothing,Low,91.74,20.64,WH2,Failed,46.12,398.09,112.38
+468,868.6,Toys,Low,50.22,3.61,WH4,Pending,48.45,922.43,53.83
+469,223.6,Toys,Medium,72.92,28.16,WH7,Pending,27.49,324.68,101.08
+470,963.22,Toys,Low,81.02,5.44,WH3,Verified,23.45,1049.68,86.46
+471,12.15,Electronics,Medium,14.02,18.68,WH2,Failed,47.31,44.85,32.7
+472,969.88,Books,High,67.62,6.68,WH10,Pending,34.01,1044.18,74.3
+473,43.16,Toys,High,86.57,9.22,WH2,Failed,4.18,138.95,95.79
+474,891.14,Electronics,Low,24.24,16.39,WH1,Pending,23.82,931.77,40.63
+475,527.7,Books,High,94.77,12.52,WH5,Failed,12.77,634.99,107.29
+476,992.96,Clothing,Low,72.13,4.81,WH6,Verified,24.02,1069.9,76.94
+477,73.8,Electronics,High,114.51,5.13,WH6,Failed,23.32,193.44,119.64
+478,553.85,Home & Kitchen,Medium,9.88,12.54,WH9,Pending,29.53,576.27,22.42
+479,969.3,Electronics,Medium,35.51,22.72,WH4,Verified,18.48,1027.53,58.23
+480,523.1,Electronics,Medium,74.18,26.94,WH1,Failed,9.05,624.22,101.12
+481,629.4,Books,Medium,39.1,2.52,WH6,Pending,25.68,671.02,41.62
+482,695.75,Clothing,Low,87.16,11.79,WH5,Verified,41.68,794.7,98.95
+483,454.54,Home & Kitchen,High,92.29,3.01,WH10,Failed,33.54,549.84,95.3
+484,627.56,Toys,Low,16.79,0.5,WH6,Pending,17.58,644.85,17.29
+485,584.31,Toys,Medium,64.09,19.85,WH3,Failed,46.84,668.25,83.94
+486,901.16,Electronics,Low,63.52,18.07,WH2,Failed,45.7,982.75,81.59
+487,45.45,Books,High,47.47,4.89,WH6,Verified,11.26,97.81,52.36
+488,280.96,Books,Low,112.29,7.01,WH1,Verified,2.93,400.26,119.3
+489,950.41,Toys,High,100.16,0.71,WH7,Pending,37.32,1051.28,100.87
+490,890.26,Home & Kitchen,Low,85.18,25.05,WH7,Verified,41.55,1000.49,110.23
+491,455.66,Clothing,High,87.15,29.24,WH10,Pending,48.43,572.05,116.39
+492,620.13,Home & Kitchen,High,58.1,4.06,WH7,Failed,44.6,682.29,62.16
+493,277.38,Clothing,Medium,110.91,6.94,WH10,Failed,30.43,395.23,117.85
+494,188.12,Toys,High,84.88,26.05,WH1,Pending,26.97,299.05,110.93
+495,463.7,Clothing,Medium,88.83,27.79,WH4,Failed,2.36,580.32,116.62
+496,353.35,Books,Medium,104.09,12.59,WH7,Verified,13.09,470.03,116.68
+497,583.66,Electronics,Medium,36.52,1.52,WH9,Failed,23.52,621.7,38.04
+498,77.73,Electronics,Low,97.81,1.18,WH5,Verified,31.8,176.72,98.99
+499,974.39,Toys,Low,27.45,17.22,WH2,Pending,28.31,1019.06,44.67
+500,986.21,Books,Low,44.71,11.79,WH7,Pending,37.39,1042.71,56.5
+501,698.16,Home & Kitchen,Low,43.6,0.86,WH10,Failed,14.71,742.62,44.46
+502,536.1,Books,High,117.53,17.5,WH1,Failed,28.68,671.13,135.03
+503,309.53,Electronics,High,103.5,0.34,WH7,Verified,5.32,413.37,103.84
+504,813.8,Electronics,Low,85.63,23.62,WH6,Verified,21.27,923.05,109.25
+505,684.73,Books,High,88.61,9.19,WH7,Failed,37.76,782.53,97.8
+506,162.62,Books,High,69.64,1.21,WH10,Failed,34.98,233.47,70.85
+507,910.93,Electronics,Medium,113.92,17.65,WH3,Pending,49.54,1042.5,131.57
+508,822.54,Home & Kitchen,Medium,62.07,11.93,WH3,Pending,14.62,896.54,74.0
+509,949.8,Toys,Medium,48.76,29.21,WH7,Pending,25.41,1027.77,77.97
+510,725.72,Toys,Medium,23.75,16.33,WH2,Failed,17.15,765.8,40.08
+511,613.42,Books,High,95.41,8.26,WH1,Failed,22.59,717.09,103.67
+512,418.24,Toys,Low,89.46,21.28,WH9,Failed,42.99,528.98,110.74
+513,932.73,Electronics,High,49.2,8.14,WH9,Pending,34.53,990.07,57.34
+514,866.06,Electronics,High,7.9,27.13,WH7,Failed,44.24,901.09,35.03
+515,45.22,Books,High,101.48,11.24,WH7,Verified,10.97,157.94,112.72
+516,26.37,Books,Medium,6.31,16.5,WH3,Failed,43.79,49.18,22.81
+517,376.46,Books,Medium,85.93,1.52,WH10,Failed,3.93,463.91,87.45
+518,810.55,Home & Kitchen,Medium,116.58,12.78,WH2,Failed,44.54,939.91,129.36
+519,987.28,Toys,Low,55.33,24.97,WH7,Failed,17.12,1067.58,80.3
+520,150.42,Books,High,32.02,24.17,WH9,Failed,16.41,206.61,56.19
+521,594.13,Clothing,Low,86.06,6.73,WH1,Verified,26.09,686.92,92.79
+522,380.89,Clothing,Medium,98.97,6.78,WH4,Verified,47.09,486.64,105.75
+523,969.91,Electronics,Low,67.84,24.52,WH6,Failed,3.34,1062.27,92.36
+524,842.12,Toys,High,116.21,27.91,WH7,Pending,18.26,986.24,144.12
+525,838.33,Books,High,10.94,2.86,WH10,Failed,42.97,852.13,13.8
+526,468.69,Clothing,Medium,63.05,13.5,WH7,Failed,20.41,545.24,76.55
+527,414.82,Toys,Medium,87.62,10.12,WH10,Failed,10.76,512.56,97.74
+528,273.41,Electronics,Low,104.2,26.12,WH2,Pending,21.81,403.73,130.32
+529,56.38,Home & Kitchen,Medium,25.61,2.51,WH4,Pending,19.89,84.5,28.12
+530,864.72,Toys,Medium,97.0,6.33,WH5,Pending,45.86,968.05,103.33
+531,812.9,Toys,High,68.56,22.57,WH1,Verified,38.33,904.03,91.13
+532,999.72,Home & Kitchen,Medium,50.6,1.54,WH1,Pending,25.75,1051.86,52.14
+533,996.64,Toys,Medium,20.15,14.78,WH10,Verified,49.43,1031.57,34.93
+534,555.43,Electronics,High,104.51,13.26,WH3,Verified,23.8,673.2,117.77
+535,768.99,Electronics,High,23.09,10.03,WH10,Pending,3.85,802.11,33.12
+536,944.77,Home & Kitchen,Low,40.63,11.84,WH3,Pending,13.85,997.24,52.47
+537,849.65,Books,Medium,38.36,15.9,WH8,Pending,22.37,903.91,54.26
+538,247.35,Clothing,High,105.21,4.84,WH9,Verified,8.69,357.4,110.05
+539,450.54,Books,Low,82.36,17.16,WH1,Failed,47.43,550.06,99.52
+540,129.16,Toys,Low,96.62,24.16,WH2,Pending,38.58,249.94,120.78
+541,954.05,Clothing,Medium,33.8,22.8,WH10,Pending,14.15,1010.65,56.6
+542,606.17,Home & Kitchen,Medium,76.86,4.62,WH2,Pending,29.95,687.65,81.48
+543,228.64,Home & Kitchen,Low,70.75,4.48,WH4,Verified,36.35,303.87,75.23
+544,671.7,Clothing,High,100.78,8.05,WH2,Verified,47.12,780.53,108.83
+545,618.13,Electronics,Low,109.2,10.83,WH7,Failed,44.2,738.16,120.03
+546,358.16,Clothing,Medium,6.4,12.25,WH9,Pending,26.24,376.81,18.65
+547,113.56,Toys,High,82.51,20.39,WH7,Verified,38.96,216.46,102.9
+548,671.57,Electronics,High,10.96,1.7,WH6,Failed,28.55,684.23,12.66
+549,520.31,Home & Kitchen,Low,68.12,1.04,WH10,Pending,28.08,589.47,69.16
+550,772.32,Clothing,Medium,38.08,11.76,WH1,Verified,6.62,822.16,49.84
+551,520.16,Books,Low,40.28,20.91,WH10,Pending,7.18,581.35,61.19
+552,852.18,Books,Low,45.59,5.8,WH9,Pending,26.95,903.57,51.39
+553,551.91,Toys,Low,76.45,19.25,WH5,Verified,14.17,647.61,95.7
+554,560.94,Books,High,43.42,7.79,WH5,Verified,2.03,612.15,51.21
+555,876.65,Clothing,High,89.26,26.58,WH6,Verified,36.42,992.49,115.84
+556,403.48,Clothing,Medium,51.52,26.87,WH9,Pending,2.59,481.87,78.39
+557,134.02,Books,Medium,12.86,8.92,WH8,Pending,30.17,155.8,21.78
+558,28.78,Clothing,Low,95.13,6.9,WH8,Failed,27.42,130.81,102.03
+559,755.14,Toys,Low,37.86,12.34,WH8,Pending,48.47,805.34,50.2
+560,620.31,Electronics,Low,54.77,7.22,WH1,Verified,24.73,682.3,61.99
+561,704.08,Toys,Medium,83.83,20.17,WH1,Pending,4.12,808.08,104.0
+562,212.96,Toys,High,43.23,24.78,WH8,Failed,28.03,280.97,68.01
+563,136.37,Clothing,High,11.51,20.19,WH5,Failed,42.21,168.07,31.7
+564,14.54,Electronics,Low,48.0,24.73,WH9,Verified,49.85,87.27,72.73
+565,350.59,Clothing,Low,113.61,11.91,WH2,Verified,22.09,476.11,125.52
+566,589.92,Home & Kitchen,Low,78.8,4.69,WH9,Failed,16.69,673.41,83.49
+567,392.24,Clothing,Low,82.22,22.14,WH8,Failed,45.43,496.6,104.36
+568,437.47,Clothing,Medium,77.71,10.81,WH9,Failed,10.37,525.99,88.52
+569,904.16,Clothing,High,27.88,20.14,WH4,Verified,31.16,952.18,48.02
+570,348.26,Electronics,Low,53.11,8.12,WH1,Failed,20.88,409.49,61.23
+571,513.99,Clothing,Medium,91.36,2.44,WH1,Failed,3.01,607.79,93.8
+572,783.65,Electronics,Low,16.66,29.78,WH5,Verified,18.02,830.09,46.44
+573,396.54,Books,Low,36.95,4.69,WH2,Pending,14.0,438.18,41.64
+574,622.09,Home & Kitchen,High,36.78,29.65,WH8,Pending,34.62,688.52,66.43
+575,862.36,Electronics,Low,54.68,29.32,WH10,Failed,47.49,946.36,84.0
+576,949.52,Books,High,117.74,23.81,WH5,Pending,14.13,1091.07,141.55
+577,147.07,Electronics,High,12.76,19.78,WH5,Pending,40.76,179.61,32.54
+578,926.59,Electronics,High,64.65,17.33,WH2,Pending,3.71,1008.57,81.98
+579,492.12,Home & Kitchen,Medium,25.63,25.98,WH7,Pending,27.37,543.73,51.61
+580,258.24,Toys,Medium,116.63,8.68,WH8,Failed,4.46,383.55,125.31
+581,459.14,Toys,High,18.03,14.03,WH10,Pending,46.77,491.2,32.06
+582,980.03,Electronics,Low,51.41,18.58,WH1,Pending,38.55,1050.02,69.99
+583,492.62,Clothing,High,89.86,12.34,WH2,Verified,33.24,594.82,102.2
+584,328.75,Books,Low,86.02,12.82,WH10,Failed,41.37,427.59,98.84
+585,633.4,Clothing,High,53.61,9.91,WH4,Verified,32.73,696.92,63.52
+586,240.15,Clothing,Low,44.85,16.93,WH5,Verified,48.48,301.93,61.78
+587,75.86,Electronics,Medium,50.73,25.52,WH2,Failed,35.98,152.11,76.25
+588,128.88,Electronics,Low,35.39,6.05,WH1,Pending,46.31,170.32,41.44
+589,128.05,Electronics,High,28.61,28.03,WH9,Verified,26.34,184.69,56.64
+590,151.9,Electronics,Medium,60.55,20.67,WH1,Failed,6.74,233.12,81.22
+591,138.83,Toys,Low,35.88,24.7,WH4,Pending,26.88,199.41,60.58
+592,640.87,Electronics,Low,38.06,16.69,WH2,Failed,7.22,695.62,54.75
+593,181.88,Toys,Low,80.53,23.39,WH4,Verified,30.03,285.8,103.92
+594,345.67,Toys,Low,116.38,0.49,WH8,Pending,24.64,462.54,116.87
+595,896.79,Electronics,Low,74.42,24.55,WH8,Pending,31.51,995.76,98.97
+596,473.96,Home & Kitchen,Medium,13.85,1.2,WH9,Failed,1.49,489.01,15.05
+597,667.56,Books,Medium,13.69,26.7,WH5,Pending,10.55,707.95,40.39
+598,172.32,Clothing,Medium,114.41,29.76,WH7,Verified,25.08,316.49,144.17
+599,192.29,Toys,Medium,39.19,8.82,WH3,Verified,47.57,240.3,48.01
+600,40.87,Books,High,15.59,6.31,WH10,Verified,19.8,62.77,21.9
+601,168.94,Home & Kitchen,Medium,73.89,22.96,WH4,Failed,21.79,265.79,96.85
+602,278.59,Clothing,Low,76.72,7.59,WH10,Pending,36.02,362.9,84.31
+603,177.01,Clothing,Low,79.58,25.97,WH9,Pending,30.59,282.56,105.55
+604,88.7,Toys,Medium,35.75,3.09,WH10,Pending,15.65,127.54,38.84
+605,120.64,Electronics,Low,6.74,3.78,WH10,Verified,21.13,131.16,10.52
+606,460.78,Home & Kitchen,Medium,115.98,29.37,WH1,Pending,11.67,606.13,145.35
+607,206.33,Toys,Low,33.85,20.22,WH2,Verified,48.34,260.4,54.07
+608,364.27,Home & Kitchen,High,82.74,25.41,WH5,Pending,7.4,472.42,108.15
+609,503.42,Electronics,High,86.26,9.73,WH3,Verified,19.22,599.41,95.99
+610,690.39,Electronics,Medium,75.15,20.29,WH2,Pending,2.27,785.83,95.44
+611,39.31,Toys,Medium,40.98,17.83,WH1,Failed,11.87,98.12,58.81
+612,799.41,Electronics,Medium,36.18,18.09,WH10,Failed,39.24,853.68,54.27
+613,627.9,Books,Low,73.73,20.48,WH3,Verified,10.86,722.11,94.21
+614,81.76,Clothing,Medium,104.6,17.26,WH1,Verified,4.92,203.62,121.86
+615,873.58,Toys,High,113.87,12.87,WH1,Pending,24.25,1000.32,126.74
+616,920.87,Home & Kitchen,Low,17.18,8.28,WH1,Pending,1.49,946.33,25.46
+617,61.08,Books,Medium,22.81,23.06,WH8,Failed,5.15,106.95,45.87
+618,276.88,Toys,Low,113.64,6.79,WH3,Pending,40.57,397.31,120.43
+619,806.2,Electronics,Low,89.7,20.77,WH1,Verified,38.8,916.67,110.47
+620,748.26,Electronics,Medium,106.54,7.0,WH7,Verified,45.84,861.8,113.54
+621,184.52,Electronics,Low,28.3,18.76,WH10,Verified,42.87,231.58,47.06
+622,209.35,Electronics,High,72.57,22.41,WH3,Verified,34.48,304.33,94.98
+623,370.47,Home & Kitchen,High,85.63,6.56,WH8,Verified,3.56,462.66,92.19
+624,484.52,Books,Low,83.21,1.8,WH4,Failed,39.36,569.53,85.01
+625,618.25,Clothing,Medium,51.94,3.93,WH4,Failed,42.43,674.12,55.87
+626,368.91,Home & Kitchen,Low,6.77,18.18,WH5,Verified,40.16,393.86,24.95
+627,462.53,Home & Kitchen,High,72.04,25.48,WH6,Pending,25.92,560.05,97.52
+628,747.47,Clothing,Low,34.11,1.35,WH7,Verified,12.41,782.93,35.46
+629,36.68,Clothing,Low,56.78,22.02,WH4,Failed,42.42,115.48,78.8
+630,252.44,Electronics,High,115.12,10.24,WH8,Verified,36.63,377.8,125.36
+631,713.35,Home & Kitchen,Low,50.89,14.36,WH6,Failed,49.06,778.6,65.25
+632,895.21,Toys,Low,101.58,27.87,WH1,Failed,8.63,1024.66,129.45
+633,511.68,Clothing,Medium,26.68,9.96,WH1,Verified,12.06,548.32,36.64
+634,532.11,Clothing,Medium,82.33,13.96,WH9,Verified,11.38,628.4,96.29
+635,107.17,Books,High,117.36,0.41,WH10,Pending,39.83,224.94,117.77
+636,447.41,Toys,High,16.72,2.45,WH6,Failed,10.16,466.58,19.17
+637,532.62,Toys,High,5.96,7.76,WH10,Pending,4.27,546.34,13.72
+638,242.47,Clothing,Medium,54.86,0.84,WH8,Verified,49.93,298.17,55.7
+639,269.24,Electronics,High,15.65,18.94,WH7,Failed,2.22,303.83,34.59
+640,377.28,Books,High,91.06,12.79,WH6,Pending,41.93,481.13,103.85
+641,20.07,Toys,High,110.17,16.44,WH4,Pending,18.9,146.68,126.61
+642,322.08,Clothing,Medium,54.91,5.24,WH7,Pending,42.24,382.23,60.15
+643,211.45,Toys,Low,34.75,8.88,WH9,Verified,28.18,255.08,43.63
+644,327.5,Books,High,54.96,19.91,WH10,Verified,45.18,402.37,74.87
+645,119.76,Books,Low,88.2,28.96,WH10,Verified,46.38,236.92,117.16
+646,890.53,Home & Kitchen,High,6.04,1.51,WH7,Failed,1.45,898.08,7.55
+647,593.59,Clothing,Low,72.79,26.71,WH1,Verified,4.7,693.09,99.5
+648,679.1,Books,Medium,75.53,17.31,WH10,Failed,13.27,771.94,92.84
+649,789.17,Home & Kitchen,Medium,78.33,16.92,WH9,Pending,33.8,884.42,95.25
+650,498.44,Home & Kitchen,High,32.83,15.01,WH4,Pending,44.53,546.28,47.84
+651,86.92,Toys,Low,87.12,2.08,WH3,Verified,23.54,176.12,89.2
+652,537.11,Toys,Medium,15.51,2.7,WH4,Pending,30.74,555.32,18.21
+653,586.84,Home & Kitchen,High,27.92,18.03,WH4,Verified,10.24,632.79,45.95
+654,745.44,Toys,High,105.91,10.23,WH10,Failed,40.44,861.58,116.14
+655,431.66,Books,Medium,89.95,27.52,WH2,Pending,48.4,549.13,117.47
+656,127.58,Electronics,Medium,6.58,12.2,WH1,Verified,14.16,146.36,18.78
+657,283.78,Books,High,33.56,4.3,WH10,Pending,25.25,321.64,37.86
+658,363.08,Home & Kitchen,Low,29.66,21.44,WH1,Pending,5.22,414.18,51.1
+659,645.92,Home & Kitchen,Low,36.14,8.8,WH8,Verified,28.4,690.86,44.94
+660,570.78,Books,Low,33.47,15.76,WH2,Pending,25.64,620.01,49.23
+661,356.1,Toys,High,12.19,20.93,WH10,Pending,8.08,389.22,33.12
+662,986.52,Toys,Medium,57.78,27.01,WH5,Pending,22.66,1071.31,84.79
+663,605.77,Home & Kitchen,High,89.26,23.77,WH4,Pending,17.37,718.8,113.03
+664,237.23,Clothing,Medium,74.77,20.29,WH8,Failed,26.57,332.29,95.06
+665,101.78,Toys,Low,82.38,20.39,WH2,Pending,29.7,204.55,102.77
+666,152.86,Books,Low,14.33,28.38,WH10,Pending,1.42,195.57,42.71
+667,245.96,Toys,Medium,114.42,8.87,WH9,Verified,38.29,369.25,123.29
+668,160.68,Books,Medium,101.43,0.03,WH7,Failed,35.94,262.14,101.46
+669,186.57,Home & Kitchen,High,97.59,8.16,WH7,Verified,18.95,292.32,105.75
+670,285.1,Toys,Low,99.64,6.54,WH1,Verified,3.59,391.28,106.18
+671,173.37,Books,High,112.26,19.86,WH2,Verified,37.99,305.49,132.12
+672,896.77,Home & Kitchen,High,67.59,19.01,WH4,Failed,47.8,983.37,86.6
+673,80.23,Clothing,High,28.03,17.8,WH4,Verified,12.77,126.06,45.83
+674,524.51,Books,Low,75.93,0.49,WH3,Verified,16.85,600.93,76.42
+675,410.4,Clothing,High,90.43,21.86,WH7,Verified,10.01,522.69,112.29
+676,982.38,Clothing,High,89.86,9.71,WH8,Pending,29.27,1081.95,99.57
+677,112.04,Electronics,High,64.97,19.95,WH2,Verified,8.59,196.96,84.92
+678,397.86,Toys,High,12.87,16.7,WH4,Failed,18.45,427.43,29.57
+679,969.47,Books,High,47.68,10.28,WH3,Failed,35.15,1027.43,57.96
+680,865.51,Clothing,High,110.89,4.04,WH2,Pending,28.45,980.44,114.93
+681,817.07,Electronics,Low,72.21,2.83,WH6,Failed,19.94,892.11,75.04
+682,257.9,Home & Kitchen,High,66.91,24.95,WH4,Failed,21.59,349.76,91.86
+683,170.89,Books,Medium,35.92,27.55,WH6,Pending,28.54,234.36,63.47
+684,668.64,Clothing,High,47.37,19.49,WH2,Verified,1.29,735.5,66.86
+685,929.38,Toys,High,107.96,3.1,WH4,Pending,4.85,1040.44,111.06
+686,556.76,Electronics,Low,81.64,12.06,WH6,Verified,44.18,650.46,93.7
+687,571.61,Clothing,Low,95.55,21.87,WH5,Verified,4.82,689.03,117.42
+688,279.98,Toys,Medium,57.25,23.39,WH3,Failed,35.63,360.62,80.64
+689,769.49,Clothing,Medium,77.48,3.55,WH8,Pending,46.08,850.52,81.03
+690,187.04,Books,Low,33.56,0.0,WH7,Failed,14.26,220.6,33.56
+691,323.68,Books,Low,86.13,21.36,WH3,Failed,19.15,431.17,107.49
+692,425.44,Books,High,54.17,10.7,WH6,Verified,28.88,490.31,64.87
+693,507.61,Electronics,Low,55.89,7.63,WH4,Failed,44.2,571.13,63.52
+694,242.41,Books,Medium,79.67,0.39,WH5,Pending,47.15,322.47,80.06
+695,114.84,Toys,High,112.67,16.21,WH5,Failed,37.24,243.72,128.88
+696,610.62,Clothing,Medium,12.36,25.53,WH7,Failed,5.24,648.51,37.89
+697,288.63,Home & Kitchen,High,99.85,28.73,WH5,Verified,33.79,417.21,128.58
+698,581.24,Toys,Low,38.62,16.97,WH3,Pending,21.1,636.83,55.59
+699,154.36,Toys,Medium,56.05,15.43,WH10,Failed,24.06,225.84,71.48
+700,481.14,Books,High,7.52,2.55,WH5,Verified,3.41,491.21,10.07
+701,532.59,Electronics,High,39.62,16.47,WH7,Failed,10.36,588.68,56.09
+702,51.82,Clothing,Low,62.8,11.4,WH5,Pending,39.74,126.02,74.2
+703,336.6,Electronics,Low,11.46,18.21,WH5,Failed,23.24,366.27,29.67
+704,134.41,Clothing,Low,61.48,11.66,WH9,Failed,15.78,207.55,73.14
+705,63.37,Clothing,Medium,111.62,7.21,WH3,Verified,19.82,182.2,118.83
+706,989.96,Electronics,High,17.12,2.85,WH6,Failed,42.87,1009.93,19.97
+707,322.35,Toys,Low,92.91,9.45,WH1,Verified,37.7,424.71,102.36
+708,809.87,Clothing,Medium,52.11,2.9,WH10,Pending,14.34,864.88,55.01
+709,254.64,Electronics,Medium,80.34,5.31,WH5,Failed,6.76,340.29,85.65
+710,681.5,Clothing,Medium,34.93,29.62,WH8,Pending,13.35,746.05,64.55
+711,760.23,Home & Kitchen,Low,23.34,13.32,WH5,Pending,46.12,796.89,36.66
+712,595.64,Toys,Low,23.45,15.96,WH9,Failed,29.5,635.05,39.41
+713,471.58,Books,High,13.11,26.21,WH6,Verified,27.14,510.9,39.32
+714,411.84,Clothing,High,26.35,29.87,WH8,Pending,30.22,468.06,56.22
+715,348.87,Home & Kitchen,Low,81.39,17.48,WH10,Pending,18.94,447.74,98.87
+716,929.53,Books,Medium,106.39,24.37,WH8,Failed,40.55,1060.29,130.76
+717,830.62,Books,Medium,98.62,9.81,WH3,Failed,26.64,939.05,108.43
+718,965.03,Clothing,Medium,83.79,9.17,WH7,Failed,6.72,1057.99,92.96
+719,124.3,Electronics,High,17.7,12.08,WH7,Failed,7.32,154.08,29.78
+720,730.87,Clothing,Medium,38.26,20.18,WH10,Failed,27.31,789.31,58.44
+721,938.34,Home & Kitchen,High,40.63,20.47,WH6,Failed,46.89,999.44,61.1
+722,181.23,Books,High,33.75,9.46,WH7,Verified,16.11,224.44,43.21
+723,66.5,Clothing,Medium,64.23,4.0,WH2,Pending,43.61,134.73,68.23
+724,741.12,Electronics,Medium,66.59,18.97,WH9,Verified,38.44,826.68,85.56
+725,574.47,Clothing,Low,46.04,3.85,WH10,Verified,13.14,624.36,49.89
+726,841.83,Toys,Low,45.69,17.35,WH10,Failed,2.78,904.87,63.04
+727,139.77,Electronics,Medium,100.28,20.8,WH1,Pending,5.99,260.85,121.08
+728,795.27,Home & Kitchen,High,95.77,21.02,WH1,Verified,36.7,912.06,116.79
+729,201.63,Books,High,40.4,22.6,WH3,Failed,10.78,264.63,63.0
+730,163.66,Clothing,High,110.09,26.19,WH3,Failed,19.19,299.94,136.28
+731,164.27,Electronics,High,114.57,15.0,WH1,Pending,25.58,293.84,129.57
+732,814.57,Toys,High,42.58,21.91,WH7,Verified,36.55,879.06,64.49
+733,665.2,Electronics,Low,45.76,18.58,WH4,Verified,6.55,729.54,64.34
+734,523.07,Toys,Medium,63.15,5.6,WH10,Verified,20.91,591.82,68.75
+735,358.83,Home & Kitchen,Low,113.23,0.77,WH2,Failed,24.77,472.83,114.0
+736,877.2,Books,High,105.78,8.54,WH10,Pending,27.5,991.52,114.32
+737,392.45,Home & Kitchen,High,16.8,13.29,WH5,Pending,41.1,422.54,30.09
+738,816.6,Clothing,High,50.16,18.51,WH6,Verified,9.41,885.27,68.67
+739,439.13,Electronics,High,68.64,25.5,WH9,Failed,40.58,533.27,94.14
+740,376.94,Toys,Medium,62.86,5.89,WH4,Verified,34.95,445.69,68.75
+741,462.68,Toys,High,27.29,3.77,WH2,Pending,28.24,493.74,31.06
+742,301.38,Electronics,Medium,103.76,28.9,WH5,Failed,35.28,434.04,132.66
+743,747.61,Electronics,High,82.85,3.24,WH3,Verified,21.19,833.7,86.09
+744,502.72,Clothing,Medium,101.36,14.35,WH2,Verified,7.78,618.43,115.71
+745,232.21,Home & Kitchen,Low,103.76,17.57,WH1,Failed,33.62,353.54,121.33
+746,899.57,Toys,High,91.06,16.24,WH10,Pending,26.71,1006.87,107.3
+747,383.89,Clothing,Medium,55.51,2.58,WH2,Failed,32.33,441.98,58.09
+748,543.55,Home & Kitchen,Low,75.21,1.71,WH6,Verified,17.56,620.47,76.92
+749,906.47,Clothing,High,23.44,3.16,WH8,Verified,45.44,933.07,26.6
+750,624.24,Toys,High,82.47,17.57,WH3,Verified,29.78,724.28,100.04
+751,116.9,Electronics,High,25.61,16.33,WH9,Verified,5.18,158.84,41.94
+752,939.83,Electronics,Medium,84.8,7.01,WH9,Pending,23.04,1031.64,91.81
+753,627.71,Home & Kitchen,Medium,31.4,19.13,WH2,Pending,38.06,678.24,50.53
+754,334.91,Books,Low,18.52,24.6,WH8,Verified,39.91,378.03,43.12
+755,139.27,Home & Kitchen,Medium,24.01,1.25,WH10,Pending,25.24,164.53,25.26
+756,794.03,Books,Medium,5.23,14.94,WH5,Pending,44.84,814.2,20.17
+757,620.07,Clothing,High,87.66,20.68,WH4,Pending,14.12,728.41,108.34
+758,533.46,Clothing,High,89.23,7.57,WH10,Verified,21.12,630.26,96.8
+759,893.89,Toys,High,64.22,9.23,WH5,Failed,45.03,967.34,73.45
+760,788.6,Books,High,23.56,18.41,WH4,Failed,44.92,830.57,41.97
+761,151.67,Toys,High,14.61,26.94,WH8,Failed,34.6,193.22,41.55
+762,311.72,Electronics,High,7.2,24.3,WH4,Verified,43.09,343.22,31.5
+763,248.49,Books,High,24.06,17.49,WH10,Pending,5.35,290.04,41.55
+764,743.95,Home & Kitchen,Low,107.45,21.91,WH6,Pending,43.38,873.31,129.36
+765,33.53,Electronics,Low,32.78,10.94,WH2,Verified,16.71,77.25,43.72
+766,569.89,Electronics,Low,45.74,19.23,WH5,Verified,9.74,634.86,64.97
+767,762.46,Home & Kitchen,Low,17.11,13.99,WH6,Failed,12.73,793.56,31.1
+768,876.77,Electronics,High,30.57,5.7,WH5,Failed,21.48,913.04,36.27
+769,342.08,Books,Low,64.71,21.05,WH2,Verified,13.31,427.84,85.76
+770,821.26,Toys,High,74.89,16.69,WH7,Failed,16.71,912.84,91.58
+771,110.63,Electronics,Low,33.22,10.76,WH4,Pending,7.61,154.61,43.98
+772,846.45,Books,Medium,11.64,27.34,WH8,Verified,15.51,885.43,38.98
+773,127.49,Clothing,Low,49.97,0.63,WH7,Verified,29.04,178.09,50.6
+774,397.29,Books,Low,31.93,9.47,WH7,Pending,22.65,438.69,41.4
+775,797.3,Toys,High,30.25,1.71,WH9,Pending,17.99,829.26,31.96
+776,149.92,Books,Low,115.38,23.0,WH1,Pending,37.58,288.3,138.38
+777,229.25,Home & Kitchen,Medium,75.87,21.06,WH10,Failed,44.78,326.18,96.93
+778,722.25,Toys,High,69.04,9.94,WH6,Verified,38.08,801.23,78.98
+779,720.04,Clothing,High,52.81,20.27,WH6,Failed,17.27,793.12,73.08
+780,641.15,Home & Kitchen,Low,54.33,11.88,WH6,Pending,37.48,707.36,66.21
+781,693.95,Books,High,67.2,22.69,WH6,Failed,8.45,783.84,89.89
+782,542.72,Toys,High,85.09,13.63,WH10,Pending,7.39,641.44,98.72
+783,251.8,Clothing,High,85.75,12.37,WH7,Failed,17.94,349.92,98.12
+784,345.7,Home & Kitchen,High,24.74,28.04,WH10,Failed,40.58,398.48,52.78
+785,181.6,Clothing,High,62.51,7.53,WH6,Pending,13.07,251.64,70.04
+786,908.45,Books,High,52.38,3.61,WH1,Failed,4.1,964.44,55.99
+787,583.39,Clothing,Medium,105.11,17.54,WH3,Verified,7.45,706.04,122.65
+788,400.85,Electronics,Low,77.61,29.08,WH2,Failed,43.08,507.54,106.69
+789,462.01,Home & Kitchen,Medium,66.24,11.34,WH6,Failed,32.06,539.59,77.58
+790,947.28,Clothing,High,18.27,1.86,WH8,Verified,13.41,967.41,20.13
+791,153.35,Books,High,74.65,10.18,WH3,Pending,28.21,238.18,84.83
+792,586.23,Books,Low,18.48,15.18,WH10,Verified,26.85,619.89,33.66
+793,505.89,Clothing,Medium,43.78,4.86,WH8,Failed,33.12,554.53,48.64
+794,611.45,Books,Low,21.43,19.74,WH8,Pending,12.43,652.62,41.17
+795,18.11,Toys,Medium,84.59,29.93,WH5,Failed,43.36,132.63,114.52
+796,872.12,Toys,High,28.72,13.55,WH8,Failed,16.16,914.39,42.27
+797,932.12,Toys,Low,50.06,10.64,WH6,Verified,35.01,992.82,60.7
+798,565.13,Electronics,Low,108.0,12.02,WH5,Verified,1.79,685.15,120.02
+799,696.65,Clothing,High,28.5,3.45,WH9,Pending,19.26,728.6,31.95
+800,922.5,Electronics,Low,63.4,26.5,WH7,Pending,18.23,1012.4,89.9
+801,707.24,Books,Medium,53.22,12.44,WH8,Pending,27.63,772.9,65.66
+802,152.54,Electronics,Medium,7.08,11.62,WH1,Failed,4.56,171.24,18.7
+803,576.29,Books,Medium,96.17,19.79,WH2,Verified,39.72,692.25,115.96
+804,606.72,Books,Medium,12.94,13.26,WH8,Verified,11.67,632.92,26.2
+805,424.13,Home & Kitchen,High,59.54,19.45,WH9,Verified,34.17,503.12,78.99
+806,736.44,Toys,Low,69.48,1.84,WH4,Pending,40.36,807.76,71.32
+807,934.37,Books,Medium,77.27,24.41,WH10,Verified,28.53,1036.05,101.68
+808,925.57,Home & Kitchen,High,84.19,28.22,WH10,Verified,37.3,1037.98,112.41
+809,450.84,Toys,Low,34.13,19.46,WH9,Verified,33.43,504.43,53.59
+810,113.24,Books,Low,6.15,28.64,WH4,Pending,18.42,148.03,34.79
+811,984.84,Books,High,88.2,4.54,WH10,Verified,40.63,1077.58,92.74
+812,838.9,Electronics,High,66.6,14.32,WH10,Pending,15.44,919.82,80.92
+813,124.66,Electronics,Medium,101.15,18.05,WH10,Verified,28.99,243.86,119.2
+814,920.84,Toys,Low,99.46,17.45,WH9,Verified,37.52,1037.75,116.91
+815,869.9,Books,Low,101.98,12.04,WH7,Verified,19.57,983.92,114.02
+816,518.84,Clothing,High,60.79,10.14,WH2,Pending,15.84,589.77,70.93
+817,591.28,Electronics,Low,43.37,3.8,WH9,Pending,23.51,638.45,47.17
+818,399.0,Toys,Medium,96.03,11.75,WH4,Verified,41.08,506.78,107.78
+819,54.76,Books,Low,56.9,4.88,WH8,Failed,46.57,116.54,61.78
+820,335.2,Books,High,26.1,22.03,WH7,Pending,27.71,383.33,48.13
+821,802.85,Clothing,High,103.32,6.26,WH7,Pending,33.41,912.43,109.58
+822,4.63,Toys,Medium,106.49,1.76,WH8,Verified,45.26,112.88,108.25
+823,333.5,Books,Medium,58.63,16.57,WH1,Failed,5.83,408.7,75.2
+824,398.17,Electronics,Low,13.71,17.86,WH5,Verified,12.37,429.74,31.57
+825,537.4,Clothing,Low,49.6,26.16,WH2,Pending,35.74,613.16,75.76
+826,919.86,Toys,High,97.41,17.31,WH2,Pending,41.36,1034.58,114.72
+827,346.35,Clothing,Medium,108.7,10.36,WH1,Verified,42.99,465.41,119.06
+828,346.95,Electronics,Medium,28.4,24.09,WH5,Verified,21.34,399.44,52.49
+829,737.5,Toys,Medium,12.7,16.21,WH2,Failed,5.38,766.41,28.91
+830,452.22,Clothing,Low,105.9,2.38,WH4,Failed,22.45,560.5,108.28
+831,224.6,Home & Kitchen,Medium,49.78,16.98,WH3,Pending,12.31,291.36,66.76
+832,452.44,Electronics,High,67.3,27.24,WH3,Failed,15.27,546.98,94.54
+833,140.86,Electronics,High,116.33,11.89,WH2,Failed,38.84,269.08,128.22
+834,176.39,Electronics,Low,12.65,8.89,WH6,Pending,4.7,197.93,21.54
+835,498.37,Home & Kitchen,Low,79.56,4.3,WH2,Pending,41.55,582.23,83.86
+836,418.93,Home & Kitchen,Medium,13.52,4.54,WH8,Pending,21.96,436.99,18.06
+837,914.85,Books,Low,48.18,12.98,WH8,Pending,30.21,976.01,61.16
+838,362.39,Clothing,High,97.44,17.87,WH5,Verified,5.39,477.7,115.31
+839,580.59,Books,Medium,54.85,2.42,WH10,Pending,17.53,637.86,57.27
+840,632.26,Clothing,High,119.68,28.19,WH7,Pending,5.4,780.13,147.87
+841,13.09,Home & Kitchen,Medium,69.29,22.65,WH4,Pending,48.12,105.03,91.94
+842,663.54,Home & Kitchen,Low,41.93,17.6,WH1,Failed,40.56,723.07,59.53
+843,178.04,Books,Medium,30.31,24.85,WH2,Pending,23.52,233.2,55.16
+844,961.07,Toys,Medium,45.31,2.41,WH10,Verified,11.96,1008.79,47.72
+845,148.66,Books,High,47.84,14.31,WH10,Verified,46.74,210.81,62.15
+846,414.62,Clothing,High,12.9,18.9,WH4,Pending,17.89,446.42,31.8
+847,85.35,Books,Medium,47.5,24.86,WH1,Verified,8.89,157.71,72.36
+848,996.87,Electronics,Low,58.39,23.5,WH8,Failed,28.6,1078.76,81.89
+849,502.2,Clothing,Low,88.11,8.31,WH9,Pending,47.24,598.62,96.42
+850,595.39,Clothing,High,80.52,28.23,WH4,Verified,1.19,704.14,108.75
+851,67.08,Toys,Low,86.51,3.73,WH10,Verified,12.67,157.32,90.24
+852,749.96,Home & Kitchen,High,5.96,26.25,WH3,Pending,46.98,782.17,32.21
+853,209.91,Clothing,Low,30.03,29.13,WH2,Verified,9.38,269.07,59.16
+854,898.05,Home & Kitchen,Medium,81.09,5.31,WH5,Pending,6.55,984.45,86.4
+855,205.14,Books,High,60.66,21.66,WH3,Verified,28.94,287.46,82.32
+856,190.69,Electronics,High,5.61,1.21,WH10,Failed,43.23,197.51,6.82
+857,36.55,Toys,Medium,97.52,12.16,WH7,Verified,24.38,146.23,109.68
+858,472.07,Home & Kitchen,High,93.87,15.49,WH6,Verified,49.73,581.43,109.36
+859,564.84,Clothing,Low,68.07,17.42,WH1,Pending,34.28,650.33,85.49
+860,65.71,Home & Kitchen,Low,12.64,28.08,WH8,Verified,4.63,106.43,40.72
+861,775.53,Clothing,High,93.15,20.17,WH2,Pending,49.65,888.85,113.32
+862,453.29,Home & Kitchen,Low,72.13,14.44,WH5,Failed,20.99,539.86,86.57
+863,524.39,Clothing,High,94.93,24.29,WH9,Pending,15.08,643.61,119.22
+864,440.76,Books,Medium,91.45,28.52,WH8,Pending,28.34,560.73,119.97
+865,400.76,Clothing,High,97.35,0.66,WH2,Verified,15.91,498.77,98.01
+866,559.64,Clothing,Medium,64.57,29.48,WH9,Failed,5.24,653.69,94.05
+867,155.24,Electronics,Low,21.14,2.58,WH5,Pending,1.07,178.96,23.72
+868,181.93,Clothing,Medium,82.18,24.43,WH10,Verified,23.03,288.54,106.61
+869,861.79,Electronics,Low,76.35,8.41,WH6,Verified,42.01,946.55,84.76
+870,946.12,Toys,High,90.36,3.97,WH3,Pending,29.04,1040.45,94.33
+871,373.31,Electronics,Low,24.54,13.2,WH3,Verified,49.96,411.05,37.74
+872,270.74,Books,High,27.42,19.32,WH10,Pending,15.06,317.48,46.74
+873,644.0,Electronics,High,107.4,11.43,WH8,Pending,14.74,762.83,118.83
+874,408.73,Toys,Medium,91.25,1.64,WH10,Pending,8.83,501.62,92.89
+875,25.39,Books,Medium,109.45,17.98,WH10,Failed,9.04,152.82,127.43
+876,156.15,Home & Kitchen,Medium,92.25,27.07,WH2,Pending,14.97,275.47,119.32
+877,715.97,Home & Kitchen,Medium,73.67,11.5,WH2,Verified,39.85,801.14,85.17
+878,658.92,Electronics,Low,80.23,6.49,WH5,Failed,45.38,745.64,86.72
+879,27.1,Electronics,Low,107.25,13.28,WH6,Verified,48.78,147.63,120.53
+880,221.97,Toys,Low,71.56,1.45,WH2,Failed,12.38,294.98,73.01
+881,231.07,Toys,High,77.73,24.61,WH5,Failed,44.18,333.41,102.34
+882,671.89,Clothing,Low,22.99,24.79,WH7,Failed,17.08,719.67,47.78
+883,19.71,Toys,Low,59.5,17.64,WH10,Failed,6.53,96.85,77.14
+884,104.11,Clothing,Low,87.39,10.59,WH10,Verified,43.63,202.09,97.98
+885,799.92,Books,Medium,36.16,23.99,WH8,Pending,32.17,860.07,60.15
+886,178.54,Electronics,Low,28.26,16.64,WH7,Verified,9.07,223.44,44.9
+887,652.75,Books,High,41.09,24.78,WH8,Pending,22.06,718.62,65.87
+888,238.18,Toys,Medium,32.77,18.94,WH9,Verified,15.08,289.89,51.71
+889,99.44,Books,High,29.71,23.53,WH5,Failed,37.1,152.68,53.24
+890,243.17,Books,Low,53.86,17.96,WH5,Failed,23.22,314.99,71.82
+891,722.27,Books,Medium,109.4,12.42,WH10,Pending,49.47,844.09,121.82
+892,855.7,Toys,High,63.31,28.74,WH4,Pending,3.68,947.75,92.05
+893,830.22,Books,Low,26.61,16.23,WH9,Verified,18.4,873.06,42.84
+894,397.18,Clothing,High,13.85,18.15,WH5,Pending,24.61,429.18,32.0
+895,668.09,Toys,High,85.06,6.61,WH2,Verified,25.65,759.76,91.67
+896,204.98,Books,High,49.02,18.77,WH10,Pending,16.48,272.77,67.79
+897,293.15,Toys,Low,99.51,17.15,WH8,Pending,36.73,409.81,116.66
+898,896.34,Home & Kitchen,Low,80.84,5.55,WH7,Pending,43.86,982.73,86.39
+899,13.0,Clothing,High,96.57,1.79,WH8,Failed,47.0,111.36,98.36
+900,85.51,Books,Medium,36.27,18.13,WH3,Failed,40.45,139.91,54.4
+901,207.89,Home & Kitchen,Medium,84.62,22.91,WH4,Verified,42.68,315.42,107.53
+902,26.53,Home & Kitchen,Low,35.37,15.7,WH5,Pending,27.98,77.6,51.07
+903,181.44,Toys,Low,112.99,6.8,WH6,Verified,41.47,301.23,119.79
+904,583.04,Home & Kitchen,Low,78.18,20.0,WH1,Pending,15.87,681.22,98.18
+905,421.42,Clothing,Low,42.32,2.4,WH4,Failed,20.53,466.14,44.72
+906,892.67,Clothing,Low,35.99,13.26,WH10,Failed,16.53,941.92,49.25
+907,817.44,Electronics,Medium,26.96,4.9,WH5,Pending,23.9,849.3,31.86
+908,341.82,Clothing,Low,84.88,5.53,WH7,Pending,14.99,432.23,90.41
+909,259.42,Home & Kitchen,High,30.15,6.07,WH5,Failed,48.12,295.64,36.22
+910,379.69,Clothing,High,73.46,11.6,WH1,Failed,16.33,464.75,85.06
+911,590.29,Toys,Medium,35.43,1.53,WH7,Verified,5.8,627.25,36.96
+912,268.06,Electronics,High,81.13,11.93,WH8,Failed,26.81,361.12,93.06
+913,624.15,Home & Kitchen,Medium,98.72,15.35,WH7,Pending,3.8,738.22,114.07
+914,409.41,Electronics,Medium,94.47,14.5,WH4,Verified,6.42,518.38,108.97
+915,552.05,Home & Kitchen,High,92.5,11.48,WH8,Pending,11.75,656.03,103.98
+916,436.13,Toys,Low,26.59,25.17,WH5,Verified,23.75,487.89,51.76
+917,294.47,Electronics,High,15.16,4.36,WH10,Pending,22.23,313.99,19.52
+918,948.45,Books,High,85.38,15.17,WH9,Failed,40.18,1049.0,100.55
+919,763.61,Home & Kitchen,Medium,47.36,1.86,WH10,Pending,37.23,812.83,49.22
+920,140.11,Books,High,54.72,2.13,WH5,Verified,21.89,196.96,56.85
+921,868.47,Electronics,Medium,8.58,17.22,WH1,Pending,17.35,894.27,25.8
+922,487.43,Books,Low,34.85,16.98,WH9,Verified,16.51,539.26,51.83
+923,894.55,Books,Low,8.87,26.34,WH5,Pending,38.93,929.76,35.21
+924,799.86,Electronics,Low,106.11,16.74,WH6,Failed,3.55,922.71,122.85
+925,425.21,Toys,High,32.99,28.79,WH4,Failed,1.63,486.99,61.78
+926,22.47,Books,Medium,69.09,1.46,WH6,Pending,39.98,93.02,70.55
+927,268.68,Books,Low,9.48,2.94,WH8,Pending,24.38,281.1,12.42
+928,541.63,Toys,Medium,81.69,1.32,WH3,Pending,7.41,624.64,83.01
+929,633.48,Books,Medium,42.15,5.56,WH5,Verified,12.54,681.19,47.71
+930,257.89,Books,Low,108.26,16.24,WH2,Pending,46.69,382.39,124.5
+931,139.36,Books,Low,107.13,19.37,WH2,Pending,43.12,265.86,126.5
+932,834.93,Clothing,Medium,42.41,1.37,WH7,Verified,35.78,878.71,43.78
+933,984.4,Toys,Low,108.61,28.38,WH10,Failed,24.63,1121.39,136.99
+934,525.69,Books,Medium,119.56,25.26,WH10,Pending,26.5,670.51,144.82
+935,171.68,Toys,Medium,99.92,8.9,WH10,Pending,48.79,280.5,108.82
+936,272.31,Home & Kitchen,Low,102.16,2.32,WH6,Failed,48.32,376.79,104.48
+937,18.39,Home & Kitchen,High,33.64,5.1,WH4,Failed,11.55,57.13,38.74
+938,914.3,Books,Low,71.32,3.81,WH5,Verified,40.74,989.43,75.13
+939,117.75,Toys,High,12.73,3.7,WH1,Pending,10.66,134.18,16.43
+940,576.52,Toys,Medium,15.92,15.56,WH7,Pending,11.46,608.0,31.48
+941,274.06,Toys,Medium,119.87,7.38,WH8,Verified,34.13,401.31,127.25
+942,554.18,Clothing,High,42.56,10.74,WH9,Failed,20.85,607.48,53.3
+943,651.42,Home & Kitchen,Medium,91.04,29.69,WH8,Verified,46.65,772.15,120.73
+944,829.74,Toys,High,97.77,20.53,WH5,Failed,5.36,948.04,118.3
+945,206.42,Toys,High,103.67,28.47,WH3,Verified,26.06,338.56,132.14
+946,11.0,Clothing,Medium,119.73,4.28,WH10,Failed,46.01,135.01,124.01
+947,136.89,Clothing,High,32.77,11.46,WH9,Verified,45.3,181.12,44.23
+948,900.02,Toys,Low,9.64,16.64,WH6,Failed,8.67,926.3,26.28
+949,873.89,Electronics,Low,52.29,2.3,WH5,Failed,18.97,928.48,54.59
+950,597.41,Toys,Medium,19.96,0.13,WH3,Failed,31.34,617.5,20.09
+951,600.52,Toys,Medium,7.58,20.11,WH6,Failed,8.81,628.21,27.69
+952,665.04,Clothing,High,46.45,19.25,WH3,Failed,48.43,730.74,65.7
+953,175.37,Clothing,High,95.13,12.32,WH10,Pending,45.82,282.82,107.45
+954,914.41,Toys,High,70.11,14.69,WH6,Failed,9.18,999.21,84.8
+955,418.77,Toys,High,40.97,12.46,WH4,Pending,6.94,472.2,53.43
+956,383.14,Toys,Low,80.25,0.72,WH2,Failed,5.19,464.11,80.97
+957,518.92,Clothing,Low,31.68,10.06,WH8,Pending,45.56,560.66,41.74
+958,46.97,Toys,Medium,6.65,5.31,WH4,Pending,10.49,58.93,11.96
+959,166.28,Toys,High,92.9,2.95,WH9,Verified,21.4,262.13,95.85
+960,738.03,Books,High,76.73,28.7,WH7,Failed,22.99,843.46,105.43
+961,82.8,Electronics,Medium,92.66,17.98,WH2,Verified,30.35,193.44,110.64
+962,603.15,Home & Kitchen,High,9.48,21.86,WH4,Verified,4.52,634.49,31.34
+963,245.35,Electronics,High,101.27,9.46,WH5,Failed,12.11,356.08,110.73
+964,389.3,Books,High,76.25,11.79,WH3,Verified,46.64,477.34,88.04
+965,288.69,Home & Kitchen,High,69.79,7.11,WH9,Failed,45.51,365.59,76.9
+966,355.67,Toys,High,76.83,2.91,WH5,Verified,39.28,435.41,79.74
+967,719.05,Books,Medium,104.41,5.37,WH2,Failed,1.95,828.83,109.78
+968,297.12,Toys,High,72.5,23.93,WH3,Failed,17.02,393.55,96.43
+969,566.4,Clothing,Medium,71.81,20.33,WH9,Failed,31.77,658.54,92.14
+970,476.05,Books,High,118.93,16.41,WH7,Pending,14.48,611.39,135.34
+971,663.67,Clothing,Low,92.02,14.25,WH2,Verified,45.57,769.94,106.27
+972,936.83,Books,Low,55.86,27.67,WH9,Pending,32.06,1020.36,83.53
+973,732.57,Books,Low,86.35,2.18,WH4,Verified,4.52,821.1,88.53
+974,214.94,Clothing,Low,49.76,8.42,WH9,Verified,45.54,273.12,58.18
+975,31.18,Home & Kitchen,Medium,31.32,10.5,WH2,Verified,47.93,73.0,41.82
+976,262.26,Electronics,Medium,73.64,23.47,WH10,Pending,4.81,359.37,97.11
+977,595.08,Toys,High,111.74,29.78,WH4,Verified,27.09,736.6,141.52
+978,51.43,Books,Low,111.85,7.22,WH5,Pending,15.86,170.5,119.07
+979,496.37,Toys,Medium,44.32,26.23,WH2,Failed,20.25,566.92,70.55
+980,596.84,Clothing,High,65.68,24.92,WH10,Verified,9.8,687.44,90.6
+981,334.24,Toys,High,29.34,6.74,WH1,Verified,29.33,370.32,36.08
+982,770.91,Clothing,Medium,119.5,11.98,WH7,Failed,47.94,902.39,131.48
+983,106.6,Toys,Low,117.83,12.29,WH10,Failed,25.65,236.72,130.12
+984,75.14,Electronics,High,79.69,29.35,WH1,Verified,5.06,184.18,109.04
+985,728.19,Electronics,Low,97.51,5.43,WH8,Failed,31.38,831.13,102.94
+986,495.49,Electronics,Low,87.24,23.97,WH3,Pending,17.67,606.7,111.21
+987,688.4,Electronics,Low,73.21,10.03,WH10,Pending,42.94,771.64,83.24
+988,434.83,Electronics,High,11.14,21.93,WH6,Verified,22.3,467.9,33.07
+989,246.4,Electronics,Low,57.3,12.6,WH7,Pending,10.45,316.3,69.9
+990,819.1,Clothing,High,82.6,17.35,WH10,Pending,10.36,919.05,99.95
+991,799.42,Books,Low,82.92,24.98,WH1,Verified,38.67,907.32,107.9
+992,694.7,Toys,High,47.91,24.12,WH6,Failed,14.01,766.73,72.03
+993,272.15,Electronics,Low,113.29,25.99,WH7,Verified,38.59,411.43,139.28
+994,590.23,Clothing,Medium,24.25,1.79,WH6,Pending,11.09,616.27,26.04
+995,360.97,Clothing,Low,62.54,20.76,WH4,Verified,16.76,444.27,83.3
+996,91.58,Clothing,Low,84.45,4.2,WH1,Verified,23.81,180.23,88.65
+997,917.31,Books,High,85.17,12.47,WH9,Pending,47.22,1014.95,97.64
+998,136.82,Toys,High,79.59,16.46,WH4,Pending,46.65,232.87,96.05
+999,950.24,Books,Low,36.66,12.08,WH7,Verified,11.14,998.98,48.74
+1000,446.01,Home & Kitchen,Medium,22.96,15.59,WH7,Pending,18.55,484.56,38.55
